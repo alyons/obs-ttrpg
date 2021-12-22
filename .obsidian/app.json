@@ -1,0 +1,8 @@
+{
+  "showUnsupportedFiles": true,
+  "foldHeading": true,
+  "trashOption": "local",
+  "attachmentFolderPath": "./assets",
+  "promptDelete": false,
+  "newFileLocation": "current"
+}

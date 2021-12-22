@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "934372d36e411d54",
+    "type": "split",
+    "children": [
+      {
+        "id": "333bb2d08154eafb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Raw Notes/Data to Parse.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9fc6fb1a2c9d85d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed95ec5a1020b988",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96932ab1fc67f584",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "359f9ce2502b97cb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5c7fd7ad1e4f8c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d16c57af6d8164d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b792f07ced49bb6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Raw Notes/Data to Parse.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8febe2e25e721537",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Raw Notes/Data to Parse.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "333bb2d08154eafb",
+  "lastOpenFiles": [
+    "Raw Notes/Data to Parse.md",
+    "Templates/New Article.md",
+    "Monster of the Week/Index.md",
+    "General Tools/Factions.md",
+    "Dungeons & Dragons 5th/Campaigns/Tomb of Annihilation - 2022/To Do.md",
+    "Dungeons & Dragons 5th/Campaigns/Tomb of Annihilation - 2022/Raw Notes.md",
+    "Dungeons & Dragons 5th/Campaigns/Tomb of Annihilation - 2022/Index.md",
+    "Dungeons & Dragons 5th/Campaigns/Tomb of Annihilation - 2022/Things/Calendar.md",
+    "Dungeons & Dragons 5th/Campaigns/Tomb of Annihilation - 2022/MotW Breakdown.md",
+    "Dungeons & Dragons 5th/Campaigns/Tomb of Annihilation - 2022/Factions/Acererak (Faction).md"
+  ]
+}
