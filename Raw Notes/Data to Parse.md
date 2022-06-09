@@ -24,3 +24,5 @@ https://www.youtube.com/c/Taking20
 https://www.youtube.com/c/Nerdarchy
 
 https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw
+
+https://youtu.be/zwpQwCWdhL8
