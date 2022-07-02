@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "Dungeons & Dragons 5th/Campaigns/Iron Kingdoms - 2022/Vel.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }

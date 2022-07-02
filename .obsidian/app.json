@@ -4,5 +4,7 @@
   "trashOption": "local",
   "attachmentFolderPath": "./assets",
   "promptDelete": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "legacyEditor": false,
+  "livePreview": true
 }
