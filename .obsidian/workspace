@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dungeons & Dragons 5th/Campaigns/Tomb of Annihilation - 2022/MotW Breakdown.md",
+            "file": "Dungeons & Dragons 5th/Campaigns/Iron Kingdoms - 2022/Vel.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeons & Dragons 5th/Campaigns/Tomb of Annihilation - 2022/MotW Breakdown.md",
+                "file": "Dungeons & Dragons 5th/Campaigns/Iron Kingdoms - 2022/Vel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeons & Dragons 5th/Campaigns/Tomb of Annihilation - 2022/MotW Breakdown.md",
+                "file": "Dungeons & Dragons 5th/Campaigns/Iron Kingdoms - 2022/Vel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,6 +100,7 @@
   },
   "active": "333bb2d08154eafb",
   "lastOpenFiles": [
+    "Dungeons & Dragons 5th/Campaigns/Tomb of Annihilation - 2022/MotW Breakdown.md",
     "Dungeons & Dragons 5th/Campaigns/Iron Kingdoms - 2022/Vel.md",
     "Raw Notes/Change to Difficulty Checks and proficiency.md",
     "Raw Notes/Data to Parse.md",
@@ -108,7 +109,6 @@
     "Monster of the Week/Keeper/Bystanders.md",
     "Monster of the Week/Keeper/Basic Keeper Moves.md",
     "Monster of the Week/Keeper/Threats.md",
-    "Monster of the Week/Keeper/Monster.md",
-    "Monster of the Week/Keeper/Minions.md"
+    "Monster of the Week/Keeper/Monster.md"
   ]
 }
