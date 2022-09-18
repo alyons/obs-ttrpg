@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Raw Notes/Preparing for a Game as a Player.md",
+            "file": "Templates/New Article.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raw Notes/Preparing for a Game as a Player.md",
+                "file": "Templates/New Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raw Notes/Preparing for a Game as a Player.md",
+                "file": "Templates/New Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,11 +101,11 @@
   "active": "333bb2d08154eafb",
   "lastOpenFiles": [
     "Raw Notes/Change to Difficulty Checks and proficiency.md",
-    "Dungeons & Dragons 5th/Campaigns/Iron Kingdoms - 2022/Vel.md",
-    "Dungeons & Dragons 5th/Campaigns/Tomb of Annihilation - 2022/MotW Breakdown.md",
     "Raw Notes/Data to Parse.md",
     "Raw Notes/Fiasco Style Character Relations.md",
     "Raw Notes/Preparing for a Game as a Player.md",
+    "Dungeons & Dragons 5th/Campaigns/Iron Kingdoms - 2022/Vel.md",
+    "Dungeons & Dragons 5th/Campaigns/Tomb of Annihilation - 2022/MotW Breakdown.md",
     "Monster of the Week/Keeper/Bystanders.md",
     "Monster of the Week/Keeper/Basic Keeper Moves.md",
     "Monster of the Week/Keeper/Threats.md",
