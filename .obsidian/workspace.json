@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "901f8d1768506f69",
+        "id": "40b20a06f1dcfe06",
         "type": "tabs",
         "children": [
           {
-            "id": "333bb2d08154eafb",
+            "id": "4e3017ffa6f0a73c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,12 +56,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "ebde61e0f867a0e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e5c7fd7ad1e4f8c1",
@@ -117,15 +126,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "333bb2d08154eafb",
+  "active": "96932ab1fc67f584",
   "lastOpenFiles": [
+    "Dungeons & Dragons 5th/Campaigns/Iron Kingdoms - 2022/Vel.md",
     "Raw Notes/Change to Difficulty Checks and proficiency.md",
     "Raw Notes/Preparing for a Game as a Player.md",
     "General Tools/Factions.md",
     "Templates/New Article.md",
     "Raw Notes/Data to Parse.md",
     "Raw Notes/Fiasco Style Character Relations.md",
-    "Dungeons & Dragons 5th/Campaigns/Iron Kingdoms - 2022/Vel.md",
     "Dungeons & Dragons 5th/Campaigns/Tomb of Annihilation - 2022/MotW Breakdown.md",
     "Monster of the Week/Keeper/Bystanders.md",
     "Monster of the Week/Keeper/Basic Keeper Moves.md"

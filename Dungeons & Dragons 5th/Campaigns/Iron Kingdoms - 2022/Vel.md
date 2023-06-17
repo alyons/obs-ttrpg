@@ -50,6 +50,7 @@ Stats
 
 HP Dice: 8, 8, 5, 5
 
+
 Physical Description:
 - 3'0"
 - 39 lbs.
