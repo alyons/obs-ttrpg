@@ -48,7 +48,7 @@ Stats
 | Background | 0   | 0   | 0   | +1  | 0   | 0   |
 | Total      | 10  | 14  | 12  | 18  | 12  | 9   |
 
-HP Dice: 8, 8, 5, 5
+HP Dice: 8, 8, 5, 5, ?, 7
 
 
 Physical Description:
