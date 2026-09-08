@@ -27,6 +27,7 @@ As part of building a character in Bastion of Blasphemies, I chose to use the `P
 | ???              | 3rd   | Common |
 | ???              | 2nd   | Common |
 | Walking Cauldron | 1st   | Common |
+| ???              | 1st   | Common |
 # Other Notes
 ## Seven Questions That Define Your Character
 ### Origins
