@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/2026/Bastion of Blasphemies/Dmitri.md",
+                "file": "Campaign Notes/2026/Bastion of Blasphemies/Money Ledger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dmitri"
+              "title": "Money Ledger"
             }
           },
           {
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes/2026/Bastion of Blasphemies/Dmitri.md",
+                "file": "Campaign Notes/2026/Bastion of Blasphemies/Money Ledger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes/2026/Bastion of Blasphemies/Dmitri.md",
+                "file": "Campaign Notes/2026/Bastion of Blasphemies/Money Ledger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -213,10 +213,10 @@
   },
   "active": "dd1f5a5027e6777b",
   "lastOpenFiles": [
+    "Campaign Notes/2026/Bastion of Blasphemies/Dmitri.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Factions.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Party.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Facts to Share with Party.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/Dmitri.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Money Ledger.md",
     "General Tools/Factions.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Journal",
