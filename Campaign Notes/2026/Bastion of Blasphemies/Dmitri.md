@@ -17,17 +17,7 @@ The world is full of strange things that can't be simply explained. While religi
 - He was always fascinated with potions and the like.
 - When he was of age, he began to travel towards more forested areas to discover other types of flora
 - Ended up cursed and found a magical pond that ended up curing him of his ailment. It also imbued him with some of the ancient magic of Pharasma, seeing that life and death are one in the same.
-
-# Build and Choices
-- Ancestry: Ratfolk
-- Background: Curse-Marked
-- Class: Witch
-- Abilities:
-	- Ancestry: Str-, Dex+, Int+, Wis+
-	- Background: Int+, Cha+
-	- Class: Int+
-	- Free: Dex+, Int+, Wis+, Cha+
-- Skills
+## Gear
 
 # Other Notes
 ## Seven Questions That Define Your Character
