@@ -79,24 +79,15 @@
 - [ ] If you could change your relationship with a family member, would you? If so, with whom? 
 - [ ] What was it like growing up as the youngest/oldest/middle/only child? 
 - [ ] Does your family ever take trips together? 
-
-21. What’s your favorite family memory? 
-
-22. Do you ever wish you were raised differently? 
-
-23. What’s the best piece of advice a family member has given you? 
-
-24. Do you wish you had more siblings? If so, why? 
-
-25. Did you ever hide anything from or lie to your parents? 
-
-26. If you had a family business, what would it be? 
-
-27. Do you and your family have any nicknames for each other? 
-
-28. What's your favorite way to spend time with your family? 
-
-29. How do you show your family you love them? 
+- [ ] What’s your favorite family memory? 
+- [ ] Do you ever wish you were raised differently? 
+- [ ] What’s the best piece of advice a family member has given you? 
+- [ ] Do you wish you had more siblings? If so, why? 
+- [ ] Did you ever hide anything from or lie to your parents? 
+- [ ] If you had a family business, what would it be? 
+- [ ] Do you and your family have any nicknames for each other? 
+- [ ] What's your favorite way to spend time with your family? 
+- [ ] How do you show your family you love them? 
 
 30. What’s your favorite family tradition? 
 
@@ -134,7 +125,7 @@
 
 47. What can always bring your family together? 
 
-Values 
+## Values 
 
 1. What do you think makes someone a “good person”? 
 
@@ -206,7 +197,7 @@ Do you believe in life on other planets? I mean, I would be a fool not to given 
 
 35. How do you interact with someone who disagrees with you? 
 
-Dreams 
+## Dreams 
 
 1. Do you think our dreams have hidden meanings? 
 
