@@ -18,7 +18,15 @@ The world is full of strange things that can't be simply explained. While religi
 - When he was of age, he began to travel towards more forested areas to discover other types of flora
 - Ended up cursed and found a magical pond that ended up curing him of his ailment. It also imbued him with some of the ancient magic of Pharasma, seeing that life and death are one in the same.
 ## Gear
+As part of building a character in Bastion of Blasphemies, I chose to use the `Pick Your Items` option for getting gear for my character. That means I get one 4th-level item, two 3rd-level items, one 2nd-level item, and two 1st-level items which can be permanent common items. I also get 50 gp to spend on 5th-level or lower consumables and 3rd-level or lower permanent items.
 
+| Item             | Level | Rarity |
+| ---------------- | ----- | ------ |
+| Staff of Healing | 4th   | Common |
+| Mage's Hat       | 3rd   | Common |
+| ???              | 3rd   | Common |
+| ???              | 2nd   | Common |
+| Walking Cauldron | 1st   | Common |
 # Other Notes
 ## Seven Questions That Define Your Character
 ### Origins
