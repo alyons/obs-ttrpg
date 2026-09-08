@@ -20,14 +20,14 @@ The world is full of strange things that can't be simply explained. While religi
 ## Gear
 As part of building a character in Bastion of Blasphemies, I chose to use the `Pick Your Items` option for getting gear for my character. That means I get one 4th-level item, two 3rd-level items, one 2nd-level item, and two 1st-level items which can be permanent common items. I also get 50 gp to spend on 5th-level or lower consumables and 3rd-level or lower permanent items.
 
-| Item             | Level | Rarity |
-| ---------------- | ----- | ------ |
-| Staff of Healing | 4th   | Common |
-| Mage's Hat       | 3rd   | Common |
-| ???              | 3rd   | Common |
-| ???              | 2nd   | Common |
-| Walking Cauldron | 1st   | Common |
-| ???              | 1st   | Common |
+| Item                        | Level | Rarity |
+| --------------------------- | ----- | ------ |
+| Staff of Healing            | 4th   | Common |
+| Mage's Hat                  | 3rd   | Common |
+| Healer's Toolkit (Expanded) | 3rd   | Common |
+| Purifying Spoon (Ladle)     | 2nd   | Common |
+| Walking Cauldron            | 1st   | Common |
+| Versatile Tinderbox         | 1st   | Common |
 # Other Notes
 ## Seven Questions That Define Your Character
 ### Origins
