@@ -13,7 +13,8 @@ The world is full of strange things that can't be simply explained. While religi
 ## History
 - Born in ???
 - Born on ???
-- He grew up with a 
+- He grew up with on a large merchant caravan.
+- 
 
 # Other Notes
 ## Seven Questions That Define Your Character
