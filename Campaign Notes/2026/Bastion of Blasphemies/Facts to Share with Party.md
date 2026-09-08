@@ -88,41 +88,24 @@
 - [ ] Do you and your family have any nicknames for each other? 
 - [ ] What's your favorite way to spend time with your family? 
 - [ ] How do you show your family you love them? 
-      What’s your favorite family tradition? 
-
-31. What's the most important holiday you spend with your family and why? 
-
-32. Who in your family would you describe as a "character"? 
-
-33. How do you feel about family events? 
-
-34. What's something your family would be surprised to learn about you? 
-
-35. Which family member do you confide in most? 
-
-36. How do you deal with arguments between family members? 
-
-37. If you have children, how do you want to raise them? 
-
-38. What's more important: family or friends? 
-
-39. Do you have any friends you would consider family? 
-
-40. Has your family ever pressured you to act a certain way? 
-
-41. Did you ever get to meet your great-grandparents? 
-
-42. What personality traits do you share with your relatives? 
-
-43. What stories did your family members tell you growing up? 
-
-44. How did your parents (and/or grandparents) meet? 
-
-45. What makes you proud of your family? 
-
-46. Who's the newest member of your family? 
-
-47. What can always bring your family together? 
+- [ ] What’s your favorite family tradition? 
+- [ ] What's the most important holiday you spend with your family and why? 
+- [ ] Who in your family would you describe as a "character"? 
+- [ ] How do you feel about family events? 
+- [ ] What's something your family would be surprised to learn about you? 
+- [ ] Which family member do you confide in most? 
+- [ ] How do you deal with arguments between family members? 
+- [ ] If you have children, how do you want to raise them? 
+- [ ] What's more important: family or friends? 
+- [ ] Do you have any friends you would consider family? 
+- [ ] Has your family ever pressured you to act a certain way? 
+- [ ] Did you ever get to meet your great-grandparents? 
+- [ ] What personality traits do you share with your relatives? 
+- [ ] What stories did your family members tell you growing up? 
+- [ ] How did your parents (and/or grandparents) meet? 
+- [ ] What makes you proud of your family? 
+- [ ] Who's the newest member of your family? 
+- [ ] What can always bring your family together? 
 
 ## Values 
 
