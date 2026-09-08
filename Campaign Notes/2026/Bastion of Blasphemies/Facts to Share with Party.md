@@ -88,8 +88,7 @@
 - [ ] Do you and your family have any nicknames for each other? 
 - [ ] What's your favorite way to spend time with your family? 
 - [ ] How do you show your family you love them? 
-
-30. What’s your favorite family tradition? 
+      What’s your favorite family tradition? 
 
 31. What's the most important holiday you spend with your family and why? 
 
