@@ -4,7 +4,7 @@ modification date: Sunday 5th December 2021 17:37:34
 ---
 
 # Acererak (Faction)
-[[Factions]]
+[[General Tools/Factions]]
 
 **Purpose:** To do Acererak's bidding.
 **Who:** Any of Acererak's minions and cultists. Acererak isn't necessarily in charge or aware of all of those who would represent this faction, though he is the leader.
