@@ -31,111 +31,54 @@
 - [ ] Do you have a favorite type of exercise?
 - [ ] What causes are you passionate about? 
 - [ ] What’s something you’re excited about right now? 
-- [ ] What’s an essential part of your daily routine? Racking. It helps me focus on the task ahead of me to know what I think I will be dealing with and kind of putting that first in getting my magic ready helps me focus on the day. 
+- [ ] What’s an essential part of your daily routine?
+- [ ] What’s the best gift you’ve ever received? 
+- [ ] What’s the worst gift you’ve ever received, and what did you do about it? 
+## Adventuring
 
-30. What’s the best gift you’ve ever received? 
-
-31. What’s the worst gift you’ve ever received, and what did you do about it? 
-
-Adventuring 
-
-Is there one type of request you'd never take? If I never see a swamp or cavern again, it will be all too soon. 
-
-2. What’s the first thing you do after getting home from an adventure? 
-
-Who or what inspires you to adventure? 
-
-My parents - They always worked hard to provide for us, and I want to do the same for the world in my own small way. 
-
-Field Testing - Getting to see how well I can maintain Metabee and what I can do to improve him. Research and lab work is fine… but seeing what the wilds can throw at you and if you can handle it is a much more rigorous test. 
-
-What do you normally do between adventures? 
-
-Visit my family a little 
-
-Do small jobs for the Order of Wizardry or my sisters Mechanik Shop 
-
-Participate in drills for the Cygnaran Military (registered warcaster and all that) 
-
-Tinker with my own projects (I want to build a cortex with more of a personality) 
-
-What’s something an outsider wouldn’t know about adventuring? You need to be ready to spend time on the road. It can get boring as you travel to locations to take on requests. 
-
-Do you have a morning routine on the road? Breakfast, stretching, cleaning, then racking. 
-
-Do you get along with all your party members? Yeah, given we are a company it seems fitting that we would at least get along, but I like everyone here. Havelocke is gruff but wants everyone to be safe, Braum is boisterous but has a good hard and stalwart shield, Alcyr is quiet but can really help in a pinch and makes cool alchemical stuff, Bernard is kind of distracted, but is ready to help anyone he can, and Flo is a bit of a war criminal, but at least she knows right from wrong and wants to stop the bad guys. 
-
-8. What’s your favorite thing about your party? 
-
-9. What annoys you most about your current party? 
-
-10. What’s the adventuring highlight you’re most proud of? 
-
-11. Do you think you’ll stay in your current gig awhile? Why or why not? Yeah, while I definitely am conflicted about the outcomes of some of our escapades, I don't think we've ever done anything out of malice or spite. 
-
-What type of role do you want to take on after this one? An apprenticeship in jack building. 
-
-Are you more of a "adventure to live" or "live to adventure" type of person? Adventure to live. I need to explore and find parts and  see the world to be able to fuel the money and passion for building Steamjacks. 
-
-14. Does adventuring make you feel happy and fulfilled? Why or why not? 
-
-15. How would your 10-year-old self react to what you do now? 
-
-16. What do you remember most about your first adventure? 
-
-17. How old were you when you started adventuring? 
-
-18. What’s the worst request you’ve ever had? 
-
-19. What originally got you interested in adventuring? 
-
-20. Do you have a vocation you do on long stints between adventuring? 
-
-21. What’s your favorite part of a travel day? 
-
-22. Do you have a party bestie? 
-
-Family 
-
-1. How much time do you spend with your family? 
-
-2. Who do you most like spending time with and why? 
-
-3. Which family member makes the best food? 
-
-4. How has your opinion of your family changed over the years? 
-
-5. If you’re close with your family, what’s the hardest part about spending time away from them? 
-
-6. Do you wish you had a bigger family, or are you happy with its current size? 
-
-7. Which family member has had the greatest impact on you? 
-
-8. What does your family’s last name mean? (Look it up if you don’t know!) 
-
-9. Who’s the best gift-giver in your family? 
-
-10. What’s your favorite story about your grandparents? 
-
-11. Have you ever mapped out your family tree? 
-
-12. Were you close with your family growing up? 
-
-13. How do you define your family now? 
-
-14. What traits are most important to you in your family members? 
-
-15. Who in your family makes you feel the safest? 
-
-16. Do you want a family of your own? 
-
-17. Have you ever been to a family reunion? 
-
-18. If you could change your relationship with a family member, would you? If so, with whom? 
-
-19. What was it like growing up as the youngest/oldest/middle/only child? 
-
-20. Does your family ever take trips together? 
+- [ ] Is there one type of request you'd never take?
+- [ ] What’s the first thing you do after getting home from an adventure? 
+- [ ] Who or what inspires you to adventure? 
+- [ ] What do you normally do between adventures? 
+- [ ] What’s something an outsider wouldn’t know about adventuring?
+- [ ] Do you have a morning routine on the road?
+- [ ] Do you get along with all your party members?
+- [ ] What’s your favorite thing about your party? 
+- [ ] What annoys you most about your current party? 
+- [ ] What’s the adventuring highlight you’re most proud of? 
+- [ ] Do you think you’ll stay in your current gig awhile? Why or why not?
+- [ ] What type of role do you want to take on after this one?
+- [ ] Are you more of a "adventure to live" or "live to adventure" type of person?
+- [ ] Does adventuring make you feel happy and fulfilled? Why or why not? 
+- [ ] How would your 10-year-old self react to what you do now? 
+- [ ] What do you remember most about your first adventure? 
+- [ ] How old were you when you started adventuring? 
+- [ ] What’s the worst request you’ve ever had? 
+- [ ] What originally got you interested in adventuring? 
+- [ ] Do you have a vocation you do on long stints between adventuring? 
+- [ ] What’s your favorite part of a travel day? 
+- [ ] Do you have a party bestie? 
+## Family 
+- [ ] How much time do you spend with your family? 
+- [ ] Who do you most like spending time with and why? 
+- [ ] Which family member makes the best food? 
+- [ ] How has your opinion of your family changed over the years? 
+- [ ] If you’re close with your family, what’s the hardest part about spending time away from them? 
+- [ ] Do you wish you had a bigger family, or are you happy with its current size? 
+- [ ] Which family member has had the greatest impact on you? 
+- [ ] What does your family’s last name mean? (Look it up if you don’t know!) 
+- [ ] Who’s the best gift-giver in your family? 
+- [ ] What’s your favorite story about your grandparents? 
+- [ ] Have you ever mapped out your family tree? 
+- [ ] Were you close with your family growing up? 
+- [ ] How do you define your family now? 
+- [ ] What traits are most important to you in your family members? 
+- [ ] Who in your family makes you feel the safest? 
+- [ ] Do you want a family of your own? 
+- [ ] Have you ever been to a family reunion? 
+- [ ] If you could change your relationship with a family member, would you? If so, with whom? 
+- [ ] What was it like growing up as the youngest/oldest/middle/only child? 
+- [ ] Does your family ever take trips together? 
 
 21. What’s your favorite family memory? 
 
