@@ -5,7 +5,7 @@
 ## Ideals
 The world is full of strange things that can't be simply explained. While religion, arcane, and nature explain much, there is still so many things that are relegated to what is called the occult. I want to understand the occult and understand the source of curses.
 ## Bonds
-- Curses and that which disrupts the natural order is an affront to me. I want to rid the world of such negative energy.
+- Curses and that which disrupts the natural order are an affront to me. I want to rid the world of such negative energy.
 - I want to make my family proud.
 - I like making little potions to see what they will do.
 ## Flaws

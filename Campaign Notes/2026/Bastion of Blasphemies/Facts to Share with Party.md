@@ -117,7 +117,7 @@
 
 4. Do you believe in soulmates? Why or why not? 
 
-What do you look for in a friendship? Shared interest, enjoy a good drink, and the ability to deal with my shenanigans and insane rambling. 
+What do you look for in a friendship?
 
 6. How do your daily priorities reflect your overall values in life? 
 
