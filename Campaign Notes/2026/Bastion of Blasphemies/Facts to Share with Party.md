@@ -167,15 +167,15 @@ What do you look for in a friendship?
 
 29. Do you believe in second chances? 
 
-What is your biggest irrational fear? Large cattle. They are big and stupid and could trample me on accident. I know you are about to ask about donkey 1 and donkey 2. They are cute and smart and how dare you imply otherwise. 
+What is your biggest irrational fear?
 
 31. What is your definition of success? 
 
 32. What line should someone never cross with you? 
 
-How do you define beauty? Passion. People can be beautiful, but there is something seeing someone laugh with their chest or their eyes gleam as they work on something that is magical. 
+How do you define beauty?
 
-Do you believe in life on other planets? I mean, I would be a fool not to given that there are other planes where things live, I am just hopeful life on other planets is not as hostile. 
+Do you believe in life on other planets?
 
 35. How do you interact with someone who disagrees with you? 
 
@@ -191,7 +191,7 @@ Do you believe in life on other planets? I mean, I would be a fool not to given 
 
 5. How do you turn a “no” into a “yes”? You can do that? I just move on. 
 
-What do you do to overcome a personal setback? Step away and regroup; sometimes perseverance is key, but just as often it is good to get a fresh look at something. 
+What do you do to overcome a personal setback?
 
 7. Is it easy for you to accept help in achieving your dreams? 
 
@@ -209,7 +209,7 @@ What do you do to overcome a personal setback? Step away and regroup; sometimes 
 
 14. If you could relive one moment in your life, which would it be? 
 
-If you had the opportunity to be immortal, would you take it? Maybe… I am afraid knowing I have more time would slow me down, but I know that building artificial intelligence won't be something simply obtained. I think we are closer that some people want to say, but a few extra decades could go a long way to achieving my goals. 
+If you had the opportunity to be immortal, would you take it?
 
 16. If you could time travel, when and where would you go? 
 
@@ -225,31 +225,31 @@ Unconventional Questions 
 
 2. Are you double-jointed? 
 
-If you came back in your next life as an animal, what animal would you be? A fox. The are smart and pretty cute. 
+If you came back in your next life as an animal, what animal would you be?
 
 4. If you got to name a new country, how would you decide what to call it? 
 
-What would be the title of your memoir? Mecha-cognition: About the Woman who invented AI 
+What would be the title of your memoir? 
 
 6. What's the first thing you do in the morning? 
 
 7. What's the last thing you do at night? 
 
-Do you think iced coffee should only be consumed in the summer or all year round? You can do what you want, but there is something nice about a warming cup of chai or coffee. 
+Do you think iced coffee should only be consumed in the summer or all year round? 
 
-Would you rather be covered in fur or covered in scales? Scales, I think. (pauses to ponder) Yeah, scales: less workshop incidents I think. 
+Would you rather be covered in fur or covered in scales?
 
-What's the most unusual place you've fallen asleep? Its between the time I fell asleep in a coal hopper at one of my jobs a couple of years ago or my nephews bed while I was babysitting him. 
+What's the most unusual place you've fallen asleep?
 
 11. Do you have any allergies? 
 
-Do you trust your own memory? In so much as any reasonable person would… I guess, I take a lot of notes, and I journal on occasion, but that's more to make sure I capture things I think are important. 
+Do you trust your own memory?
 
-13. What's your most controversial opinion about something mundane? Synthetic oils are not superior to oils found in nature. 
+13. What's your most controversial opinion about something mundane?
 
-What's your go-to midnight snack? Jerky. I normally like sweet things, but something about a piece of jerky at the end of a long research session or night in the workshop hits different. 
+What's your go-to midnight snack?
 
-15. What's your all-time favorite Halloween costume? As a little girl, she dress up as a dragon 
+15. What's your all-time favorite Halloween costume?
 
 16. What's the weirdest thing you do when you're alone? 
 
