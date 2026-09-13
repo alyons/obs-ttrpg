@@ -44,4 +44,6 @@ As part of building a character in Bastion of Blasphemies, I chose to use the `P
 
 Dmitri was born to a traveling merchant family. Consiting of about twenty Ysoki in his immediate family and another eighty in the whole caravan, Dmitri was never want for companionship. Growing up, he found his time consumed by reading various tomes his family picked up through trade and wanted to always see more of the world. Even though the caravan traveled across the land, his family never spent too much time in one place. He felt the lack of roots to any one space, but did eventually come to love his caravan as his home.
 
-When he decided to set off on his own, he wanted to be an alch
+When he decided to set off on his own, he wanted to be an alchemist. His hope was to bring that trade back to his family and be able to leverage all of the travel and trade to make a variety of elixirs to keep stocked. In his travels, he eventually ended up in Ustalav. This new land was much darker than any place he had been before and it put him on edge. During his travels he ended up stumbling upon a hags hut and was cursed from it, turning his nutty brown fur to a stark white. He didn't walk away from the encounter empty handed; a walking cauldron seemed to take a liking to him and began to follow him around, probably an item previously owned by one of the hags prior victims.
+
+He journeyed now to address his affliction, and eventually met 
