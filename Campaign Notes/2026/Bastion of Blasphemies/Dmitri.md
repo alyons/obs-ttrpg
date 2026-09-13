@@ -46,4 +46,6 @@ Dmitri was born to a traveling merchant family. Consiting of about twenty Ysoki 
 
 When he decided to set off on his own, he wanted to be an alchemist. His hope was to bring that trade back to his family and be able to leverage all of the travel and trade to make a variety of elixirs to keep stocked. In his travels, he eventually ended up in Ustalav. This new land was much darker than any place he had been before and it put him on edge. During his travels he ended up stumbling upon a hags hut and was cursed from it, turning his nutty brown fur to a stark white. He didn't walk away from the encounter empty handed; a walking cauldron seemed to take a liking to him and began to follow him around, probably an item previously owned by one of the hags prior victims.
 
-He journeyed now to address his affliction, and eventually met 
+He journeyed now to address his affliction, and eventually met (Brian's Character). Together they adventured for a little while and were even able to rid him of his curse, though patches of white remain on his body to this day. Even after they parted, they kept in contact should the day arise where they would need to team up again to vanquish some greater evil.
+
+As he continued, he started to resear
