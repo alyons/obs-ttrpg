@@ -48,4 +48,6 @@ When he decided to set off on his own, he wanted to be an alchemist. His hope wa
 
 He journeyed now to address his affliction, and eventually met (Brian's Character). Together they adventured for a little while and were even able to rid him of his curse, though patches of white remain on his body to this day. Even after they parted, they kept in contact should the day arise where they would need to team up again to vanquish some greater evil.
 
-As he continued, he started to resear
+As he continued, he started to research for ways of curse afflictions to be prevented, and now included research into the occult and divine, as the threat of the undead was much more real to him. Dmitri ended up with a prophetic vision, showing him that he had been touched by the will of Pharasma. He realized the bat companion he had taken on, Lizzy, was his familar and that is how his powers were manifesting.
+
+In some of his downtime, he stumbled upon a wrestler, Bane. For reasons he can't understand, watching Bane helped him forget how much he had seen on his journey thus far. Thanking the man for his performance and how he helped alieviate stress Dmitri wasn't even aware he was carrying, Dmitri made sure to catch Bane's performances when he could.
