@@ -42,4 +42,4 @@ As part of building a character in Bastion of Blasphemies, I chose to use the `P
 - What do you want?
 
 
-Dmitri was born to a traveling merchant family. Consiting of about twenty Ysoki in his immediate family and another eighty in the whole caravan, Dmitri was never want for companionship.
+Dmitri was born to a traveling merchant family. Consiting of about twenty Ysoki in his immediate family and another eighty in the whole caravan, Dmitri was never want for companionship. Growing up, he found his time consumed by reading various tomes his family picked up through trade and wanted to 
