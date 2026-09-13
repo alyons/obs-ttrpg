@@ -40,3 +40,6 @@ As part of building a character in Bastion of Blasphemies, I chose to use the `P
 ### Future
 - What did you leave behind?
 - What do you want?
+
+
+Dmitri was born to a traveling merchant family. Consiting of about twenty Ysoki in his immediate family and another eighty in the whole caravan, Dmitri was never want for companionship.
