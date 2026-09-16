@@ -1,1 +1,2 @@
-- Tamsyn
+- We all are getting ready to travel by caravan to the castle
+- A scouting party has previously given us some basic information a

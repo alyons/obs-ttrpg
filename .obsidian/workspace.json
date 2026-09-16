@@ -35,7 +35,8 @@
               "title": "Session 001"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7c728b832c5af0ae",
@@ -219,10 +220,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7dee7ecb23aabb8",
+  "active": "f3bb989992e57e2f",
   "lastOpenFiles": [
-    "Campaign Notes/2026/Bastion of Blasphemies/Session 001.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Dmitri.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/Session 001.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Party.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Facts to Share with Party.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Money Ledger.md",
