@@ -7,3 +7,6 @@
 - Florin fucking dies.
 - We are flung into the a gorge and fall and are taken by surprise by some creatures trying to eat us
 - We fought some Grindylow Stalkers
+- Immediate downtime post battle: 50 minutes
+	- I spend an hour patching everyone up
+	- 
