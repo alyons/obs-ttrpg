@@ -13,3 +13,4 @@
 - We find the body of our elf companion being eaten by wights.
 	- I take control of one of the wights
 	- We drop them and find some bracelets
+- We enter the church, and get attacked by some zombie priest
