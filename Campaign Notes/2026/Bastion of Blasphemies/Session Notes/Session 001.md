@@ -9,4 +9,5 @@
 - We fought some Grindylow Stalkers
 - Immediate downtime post battle: 50 minutes
 	- I spend an hour patching everyone up
-	- 
+- We find our carriage in the middle of the water, but it gets destroyed by a lake monster, who eats our dwarf companion who was stuck on the cart.
+- We find the body of our elf companion being eaten by wights.
