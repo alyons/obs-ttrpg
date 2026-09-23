@@ -8,6 +8,7 @@
 	- Viera and I find a record room, with nothing of import
 	- I was able to disable the magic on the reliquary and we found some sick loot
 	- Viera and I gather water and get ready to settle in for the evening
+# Monday 31st of Arendus 4726
 - Dream over night
 	- Whispy Fog thing - Who are we to stand before Caydserris Arudora?
 	- We are in a skiff far from ashore
