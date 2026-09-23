@@ -6,4 +6,5 @@
 	- This wasn't always a bastion of evil, there used to be people here - the people and monsters we fought might have been the previous residents, but cursed (priest zombified and the gredylows former fishermen)
 	- Jager checks a private quarters - finding personal affects, but nothing of import (most of it having rotted away)
 	- Viera and I find a record room, with nothing of import
-	- I was able
+	- I was able to disable the magic on the reliquary and we found some sick loot
+	- 
