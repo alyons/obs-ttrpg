@@ -7,5 +7,10 @@
 	- Jager checks a private quarters - finding personal affects, but nothing of import (most of it having rotted away)
 	- Viera and I find a record room, with nothing of import
 	- I was able to disable the magic on the reliquary and we found some sick loot
+	- Viera and I gather water and get ready to settle in for the evening
 - Dream over night
-	- Who are we to stand before Caderous or Adora?
+	- Whispy Fog thing - Who are we to stand before Caydserris Arudora?
+	- We are in a skiff far from ashore
+	- A beast capsizes the vessel
+	- One by one as my friends are dragged below or eaten
+	- We swim away as fast as we can, but the beast walks onto land and then drags us back into the water
