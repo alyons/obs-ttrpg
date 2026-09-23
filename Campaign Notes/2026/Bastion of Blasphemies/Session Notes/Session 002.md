@@ -15,3 +15,7 @@
 	- A beast capsizes the vessel
 	- One by one as my friends are dragged below or eaten
 	- We swim away as fast as we can, but the beast walks onto land and then drags us back into the water
+- We decide to approach the town to the north of the church
+	- 8 thatch roofed mud hovels
+	- Soft sound of rustling and whispering sound from the hovels
+	- Maiserene - Hovel of
