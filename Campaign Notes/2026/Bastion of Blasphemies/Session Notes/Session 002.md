@@ -19,3 +19,5 @@
 	- 8 thatch roofed mud hovels
 	- Soft sound of rustling and whispering sound from the hovels
 	- Maiserene - Hovel of
+	- The denizens have been turned into Gredylows... and we have to face them in combat
+	- 
