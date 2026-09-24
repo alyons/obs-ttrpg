@@ -20,4 +20,6 @@
 	- Soft sound of rustling and whispering sound from the hovels
 	- Maiserene - Hovel of
 	- The denizens have been turned into Gredylows... and we have to face them in combat
+	- Body, we made a lot of bodies
+	- There is a Mayor who is a Gredylow Nixon, we must destroy him
 	- 
