@@ -1,9 +1,11 @@
 Originally Tlassian Sulvahzur, he now goes by the name Thrax
 # Character History
 ## Birth and Family
-Sulvahzur was born to a dragonborn family in the modest part of town. His mother was in the militia and his father was a blacksmith. He had ?? siblings and lived a fairly normal life. When his mother was killed in the line of duty, as the eldest sibling, Sulvahzur had to step up to make money and take care of the house. He was already cooking for the family, but having to go take on labor to suppliment the family income, his 
-
+Sulvahzur was born to a Dragonborn family in the modest part of town. His mother was in the militia and his father was a blacksmith. He had ?? siblings and lived a fairly normal life. 
 ## Life Before Adventuring
+When his mother was killed in the line of duty, as the eldest sibling, Sulvahzur had to step up to make money and take care of the house. He was already cooking for the family, but having to go take on labor to supplement the family income, his brother took over that responsibility. In trying to make enough money to keep his family from having to downsize, he eventually started taking on more dubious jobs. As his skills improved, so did his income. 
+His father, wary of who Sulvahzur was becoming, tried to confront him to stop him from going down this path. Being young and hot-headed, this argument turned into a screaming match that fortunately didn't turn to blows. However, Sulvahzur did leave home.
+While he now regrets how he reacted to his father confronting him, he doesn't necessarily regret his trade.
 
 ## Current Status
 
