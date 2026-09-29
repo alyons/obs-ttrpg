@@ -4,8 +4,18 @@ The Dependable
 The Conscience
 - Caring
 - Helpful
-
-
+The Leader
+- Industrious
+- Goal Oriented
+The Soul
+- Artistic
+- Expressive
+The Loner (really needs to be played well, and shouldn't be done without extreme forethought)
+- Self-sufficient
+- Thoughtful
+The Solver
+- Questioning
+- Problem Solving
 
 
 
