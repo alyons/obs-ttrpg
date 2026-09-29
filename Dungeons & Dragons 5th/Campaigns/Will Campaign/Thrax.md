@@ -15,7 +15,7 @@ Originally Tlassian Sulvahzur, he now goes by the name Thrax
 
 | Stat       | Str | Dex | Con | Int | Wis | Cha |
 | ---------- | --- | --- | --- | --- | --- | --- |
-| Base       |     |     |     |     |     |     |
+| Base       | 12  | 15  | 14  | 13  | 10  | 8   |
 | Background |     | +2  |     | +1  |     |     |
 | Total      |     |     |     |     |     |     |
 ## Features
