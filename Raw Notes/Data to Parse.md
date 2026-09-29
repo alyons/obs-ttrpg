@@ -26,3 +26,5 @@ https://www.youtube.com/c/Nerdarchy
 https://www.youtube.com/channel/UCweFJojRAFuxyYxe4KHL8vw
 
 https://youtu.be/zwpQwCWdhL8
+
+https://www.youtube.com/watch?v=hhkYSLOMmTs&list=PLUd6XtD1PA7Yf-FSzj79MQmxXabhX_9Tb
