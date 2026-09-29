@@ -23,6 +23,9 @@ The Adventurer
 The Protector
 - Strong
 - Justice Oriented
+The Ambassador
+- Peace-Keeper
+- Easy Going
 
 
 

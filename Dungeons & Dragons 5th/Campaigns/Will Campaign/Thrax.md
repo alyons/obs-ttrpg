@@ -8,11 +8,14 @@ Originally Tlassian Sulvahzur, he now goes by the name Thrax
 
 # Build
 
+**Class:** Rogue
+**Species:** Dragonborn - Black
+
 | Stat       | Str | Dex | Con | Int | Wis | Cha |
 | ---------- | --- | --- | --- | --- | --- | --- |
-| Base       | 10  | 14  | 12  | 15  | 12  | 9   |
-| Essence    | 0   | 0   | 0   | +2  | 0   | 0   |
-| Background | 0   | 0   | 0   | +1  | 0   | 0   |
-| Total      | 10  | 14  | 12  | 18  | 12  | 9   |
+| Base       |     |     |     |     |     |     |
+| Essence    |     |     |     |     |     |     |
+| Background |     |     |     |     |     |     |
+| Total      |     |     |     |     |     |     |
 # Sources
-- [How to Play an Evil Character]()
+- [How to Play an Evil Character](https://youtu.be/e-0hgP1tNH8?list=PLUd6XtD1PA7Yf-FSzj79MQmxXabhX_9Tb)

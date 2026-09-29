@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "2caea9c4ed99b78c",
@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e5c7fd7ad1e4f8c1",
@@ -249,10 +248,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bda0096ac1d6a792",
+  "active": "a77cf847a0143823",
   "lastOpenFiles": [
-    "Dungeons & Dragons 5th/Campaigns/Will Campaign/Thrax.md",
     "Raw Notes/Great PC - Types of Characters.md",
+    "Dungeons & Dragons 5th/Campaigns/Will Campaign/Thrax.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 002.md",
     "Dungeons & Dragons 5th/Campaigns/Iron Kingdoms - 2022/Vel.md",
     "Raw Notes/Data to Parse.md",
