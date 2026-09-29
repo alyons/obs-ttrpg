@@ -8,7 +8,19 @@ His father, wary of who Sulvahzur was becoming, tried to confront him to stop hi
 While he now regrets how he reacted to his father confronting him, he doesn't necessarily regret his trade.
 ## Current Status
 ### Why did they leave that life?
-Family drama; they were sick of working as a day laborer and 
+Family drama: they were sick of working as a day laborer and found being an assassin was much more lucrative work.
+### What did they leave behind?
+- Family - Doesn't contact anymore, wants to help, but has to be careful due to criminal history
+### What are his goals?
+- Wealth - Wants to make enough money that he doesn't have to worry about being an assassin anymore, can be more selective with his jobs
+## Archetypes
+- Primary: The Dependable
+	- Will do what he says
+	- Wants to carry out the job correctly and completely
+- Secondary: The Leader
+	- Will take charge when necessary
+	- Goal-oriented, but will meticulously plan due to wanting to make sure the goal is reached
+	- Very much would prefer being in the back, but knows that others can be trusted less when ego or whimsy are at play
 
 # Build
 
@@ -16,12 +28,11 @@ Family drama; they were sick of working as a day laborer and
 **Species:** Dragonborn - Black
 **Background:** Criminal
 
-
 | Stat       | Str | Dex | Con | Int | Wis | Cha |
 | ---------- | --- | --- | --- | --- | --- | --- |
 | Base       | 12  | 15  | 14  | 13  | 10  | 8   |
 | Background |     | +2  |     | +1  |     |     |
-| Total      |     |     |     |     |     |     |
+| Total      | 12  | 17  | 14  | 14  | 10  | 8   |
 ## Features
 - Breath Weapon
 - Damage Resistance
