@@ -14,3 +14,5 @@ Originally Tlassian Sulvahzur, he now goes by the name Thrax
 | Essence    | 0   | 0   | 0   | +2  | 0   | 0   |
 | Background | 0   | 0   | 0   | +1  | 0   | 0   |
 | Total      | 10  | 14  | 12  | 18  | 12  | 9   |
+# Sources
+- [How to Play an Evil Character]()

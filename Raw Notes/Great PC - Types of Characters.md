@@ -16,6 +16,14 @@ The Loner (really needs to be played well, and shouldn't be done without extreme
 The Solver
 - Questioning
 - Problem Solving
+The Adventurer
+- Upbeat
+- Adventurous
+- Go just one more room
+The Protector
+- Strong
+- Justice Oriented
+
 
 
 
