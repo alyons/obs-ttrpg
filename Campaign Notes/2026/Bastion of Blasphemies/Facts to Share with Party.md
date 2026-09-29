@@ -116,8 +116,8 @@
 3. How do you show kindness to others? 
 
 4. Do you believe in soulmates? Why or why not? 
-
-What do you look for in a friendship?
+   
+5. What do you look for in a friendship?
 
 6. How do your daily priorities reflect your overall values in life? 
 
