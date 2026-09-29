@@ -22,4 +22,4 @@
 	- The denizens have been turned into Gredylows... and we have to face them in combat
 	- Body, we made a lot of bodies
 	- There is a Mayor who is a Gredylow Nixon, we must destroy him
-	- 
+	- We killed all of the Gredylow creatures of the village
