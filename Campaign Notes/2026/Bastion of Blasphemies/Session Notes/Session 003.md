@@ -19,4 +19,6 @@
 - We find a house that is haunted by a blazing inferno
 	- It is a school house and we help the children escape the fire
 	- The haunt seems to be a memory of the incident
-	- 
+- We walk around to the north side of the island and meet a man
+	- He introduces himself as Lucenaro
+	- He asks us to stay back
