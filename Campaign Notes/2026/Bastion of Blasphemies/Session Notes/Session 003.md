@@ -17,4 +17,6 @@
 	- _Most_ of the denizens were transformed by the curse, but some entities retain their original demeanors
 - We check more houses
 - We find a house that is haunted by a blazing inferno
+	- It is a school house and we help the children escape the fire
+	- The haunt seems to be a memory of the incident
 	- 
