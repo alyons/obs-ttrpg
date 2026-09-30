@@ -10,3 +10,7 @@
 	- We follow through to a barn and find spiders... the spiders are horses
 		- I don't like spiders
 		- Jagr is trying to control a spider
+- Questions about Bastard Halls
+	- Only appears every 100 years, but it appeared early
+	- Why did we make it to bastard hall
+	- It usually only stays reconstructed for one night
