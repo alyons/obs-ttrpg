@@ -14,4 +14,7 @@
 	- Only appears every 100 years, but it appeared early
 	- Why did we make it to bastard hall
 	- It usually only stays reconstructed for one night, but we have been here over night
-	- _Most_ of the denizens were 
+	- _Most_ of the denizens were transformed by the curse, but some entities retain their original demeanors
+- We check more houses
+- We find a house that is haunted by a blazing inferno
+	- 
