@@ -30,3 +30,4 @@
 - On the Eastern wall we find a creek inlet to the castle, but it looks like it is small and full of water
 - Farmlands
 	- Overgrown and vines
+- We find a shack down a cliff on the east side
