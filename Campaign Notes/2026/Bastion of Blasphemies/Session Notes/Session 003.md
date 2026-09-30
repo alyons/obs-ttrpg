@@ -13,4 +13,5 @@
 - Questions about Bastard Halls
 	- Only appears every 100 years, but it appeared early
 	- Why did we make it to bastard hall
-	- It usually only stays reconstructed for one night
+	- It usually only stays reconstructed for one night, but we have been here over night
+	- _Most_ of the denizens were 
