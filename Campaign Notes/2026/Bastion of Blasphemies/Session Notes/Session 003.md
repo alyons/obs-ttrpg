@@ -22,4 +22,9 @@
 - We walk around to the north side of the island and meet a man
 	- He introduces himself as Lucenaro
 	- He asks us to stay back
-- We wind our way around the castle and come 
+- We wind our way around the castle and come upon an islet
+	- On the islet we find a set of stones, covered in vines and has runes on the inner facing sides
+	- Upon cleaning them, an apparition appears before us thanking us and asking us to visit the school house
+	- The standing stones seem to form a gate, a landing pad as though it is set to receive incoming passage
+	- We should stop by the school house as we finish the loop
+	- 
