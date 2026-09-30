@@ -27,4 +27,6 @@
 	- Upon cleaning them, an apparition appears before us thanking us and asking us to visit the school house
 	- The standing stones seem to form a gate, a landing pad as though it is set to receive incoming passage
 	- We should stop by the school house as we finish the loop
-	- 
+- On the Eastern wall we find a creek inlet to the castle, but it looks like it is small and full of water
+- Farmlands
+	- Overgrown and vines
