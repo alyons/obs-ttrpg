@@ -31,3 +31,4 @@
 - Farmlands
 	- Overgrown and vines
 - We find a shack down a cliff on the east side
+	- We found a demon hound looking thing
