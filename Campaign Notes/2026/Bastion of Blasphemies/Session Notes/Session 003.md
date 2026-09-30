@@ -22,3 +22,4 @@
 - We walk around to the north side of the island and meet a man
 	- He introduces himself as Lucenaro
 	- He asks us to stay back
+- We wind our way around the castle and come 
