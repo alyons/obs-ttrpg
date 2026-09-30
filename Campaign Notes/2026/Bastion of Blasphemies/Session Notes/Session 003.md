@@ -8,4 +8,5 @@
 		- I figured out that the poltergeist were killed by the transformed townsfolk
 		- Bane find that all of the religious symbols have been removed and that all of the jars which could hold liquid have been removed from this place
 	- We follow through to a barn and find spiders... the spiders are horses
-		- 
+		- I don't like spiders
+		- Jagr is trying to control a spider
