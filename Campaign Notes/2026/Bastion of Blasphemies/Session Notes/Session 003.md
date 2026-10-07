@@ -20,7 +20,7 @@
 	- It is a school house and we help the children escape the fire
 	- The haunt seems to be a memory of the incident
 - We walk around to the north side of the island and meet a man
-	- He introduces himself as Lucenaro
+	- He introduces himself as Lucinero
 	- He asks us to stay back
 - We wind our way around the castle and come upon an islet
 	- On the islet we find a set of stones, covered in vines and has runes on the inner facing sides
