@@ -19,6 +19,8 @@
 	- We try to see how the wolves react to us frightening them off
 	- We are able to frighten the wolves
 	- One wolf is mauled by the loch ness monster
+	- We meet Aron Mordimus; a phantom seeming to be made of ectoplasm
+	- The maimed wolf, we have dubbed Moon Moon, we have adopted as a party mascot
 	- 
 ### Unhealing Wound
 Curse, Primal
