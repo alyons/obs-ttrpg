@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 004.md",
+                "file": "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 004"
+              "title": "Session 001"
             }
           },
           {
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e5c7fd7ad1e4f8c1",
@@ -180,15 +179,14 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "8c1dd4475e80b10e",
   "lastOpenFiles": [
-    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 003.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 004.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 003.md",
     "Raw Notes/Great PC - Types of Characters.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Dmitri.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 002.md",
