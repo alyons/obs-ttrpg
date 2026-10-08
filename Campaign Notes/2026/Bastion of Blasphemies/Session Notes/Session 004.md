@@ -13,6 +13,9 @@
 - We bend the corner of the island, now heading west
 - We find a boat house on the south side of the island
 	- I detect 8th level magic
+	- We decide to press on as the house seems dangerous
+- We continue on and find a body being eaten by a pack of wolves
+	- We try to see how the wolves
 ### Unhealing Wound
 Curse, Primal
 A creature damaged by the barghest's claws must succeed at a save or be cursed. The cursed creature can't regain Hit Points except via magic until it returns to maximum Hit Points. The creature can attempt a new saving throw against the curse every 24 hours.
