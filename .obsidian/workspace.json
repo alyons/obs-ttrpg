@@ -20,13 +20,7 @@
               "icon": "lucide-file",
               "title": "Session 004"
             }
-          }
-        ]
-      },
-      {
-        "id": "122ddf5f3442bff6",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "868c1814da46be20",
             "type": "leaf",
@@ -103,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e5c7fd7ad1e4f8c1",
