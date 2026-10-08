@@ -9,6 +9,10 @@
 	- The doors are shut
 	- Magic is eminating from the seams of the door
 	- There are a lot of drag marks of creatures being dragged into the house
+	- There is 6th level magic (rank 3-ish)
+- We bend the corner of the island, now heading west
+- We find a boat house on the south side of the island
+	- I detect 8th level magic
 ### Unhealing Wound
 Curse, Primal
 A creature damaged by the barghest's claws must succeed at a save or be cursed. The cursed creature can't regain Hit Points except via magic until it returns to maximum Hit Points. The creature can attempt a new saving throw against the curse every 24 hours.
