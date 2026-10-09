@@ -7,4 +7,7 @@
 	- Stealth Check: 24 vs 12 DC (+10 to d100 rolls on this page)
 	- Check for Traps: 13 vs 12 DC CHECKSUCCESS
 	- QUIETENTRY: You heard a bird but nothing else
-	- 
+	- To TILEPAGE 2
+- TILEPAGE 2
+	- Stealth Check: 21 vs 15 DC
+	- FLAMEWEB => HEREWEGO
