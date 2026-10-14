@@ -21,3 +21,5 @@
 	- We came upon Aron and the Esmira Vermidian school headmaster talking outside of the school
 	- Aron was the tavern keeper
 	- Esmira and Aron are strange creatures (count as phantoms but have substance)
+	- Aron was working on a revolt against the curse, but was struck down during the raid
+	- 
