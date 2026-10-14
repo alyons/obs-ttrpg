@@ -8,4 +8,7 @@
 - Dmitri senses that there is level 7 magic
 - There is a rickety wooden bridge leading across a part of the lake
 - There is a inlet on the Western Wall that a skiff could go in to potentially
-- 
+- We come to the tower
+	- It is surrounded by thorny bramble filled with small fetishes
+	- Dmitri says, fuck this shit I'm out
+	- 
