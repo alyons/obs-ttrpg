@@ -17,3 +17,5 @@
 # Tuesday 1st of ??? 4726
 - In the morning, Dmitri expends some spells to remove the `Unhealing Wound` from Bane and Viera
 - Jagr and Bane try to teach Moon Moon to fetch and do backflips
+- We head north from the church to the school house, which seemed to be magically repaired
+	- We came upon Amon and the school headmaster talking outside of the school
