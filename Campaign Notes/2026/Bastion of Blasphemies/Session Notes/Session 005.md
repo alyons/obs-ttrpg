@@ -1,1 +1,3 @@
 # Monday 31st of Arendus 4726
+- We continue west
+- 
