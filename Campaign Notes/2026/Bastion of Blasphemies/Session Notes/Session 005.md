@@ -11,4 +11,9 @@
 - We come to the tower
 	- It is surrounded by thorny bramble filled with small fetishes
 	- Dmitri says, fuck this shit I'm out
-- 
+- We take shelter in the church
+	- The rest is uneventful
+
+# Tuesday 1st of ??? 4726
+- In the morning, Dmitri expends some spells to remove the `Unhealing Wound` from Bane and Viera
+- Jagr and Bane try to teach Moon Moon to fetch and do backflips
