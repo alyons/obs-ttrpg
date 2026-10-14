@@ -6,3 +6,6 @@
 	- We tried a few times to break it down, but it doesn't break down
 - Jagr puts together that two gods were initially worshiped on the island
 - Dmitri senses that there is level 7 magic
+- There is a rickety wooden bridge leading across a part of the lake
+- There is a inlet on the Western Wall that a skiff could go in to potentially
+- 
