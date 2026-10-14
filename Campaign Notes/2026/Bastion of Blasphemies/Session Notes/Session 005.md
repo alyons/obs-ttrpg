@@ -11,4 +11,4 @@
 - We come to the tower
 	- It is surrounded by thorny bramble filled with small fetishes
 	- Dmitri says, fuck this shit I'm out
-	- 
+- 
