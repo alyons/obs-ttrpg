@@ -18,5 +18,6 @@
 - In the morning, Dmitri expends some spells to remove the `Unhealing Wound` from Bane and Viera
 - Jagr and Bane try to teach Moon Moon to fetch and do backflips
 - We head north from the church to the school house, which seemed to be magically repaired
-	- We came upon Aron and the school headmaster talking outside of the school
+	- We came upon Aron and the Esmira Vermidian school headmaster talking outside of the school
 	- Aron was the tavern keeper
+	- Esmira and Aron are strange creatures (count as phantoms but have substance)
