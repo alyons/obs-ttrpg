@@ -26,10 +26,16 @@
 	- The castle kidnapped us, well it kidnapped Florynn, but we got caught up in it
 	- 'Mephits' who burned down the school were harassing the towns folk as the curse took over the castle
 	- The curse originated in the castle in the evening, there was a storm happening, someone rode across the bridge at night then the curse took effect
-	- Curse is being run by someone
+	- Curse is being run by someone, but we don't know who
+	- they are in the castle
+	- We have access to a library via the School House
+	- We can get information about the island of the curse
 - We meet back up with Lucario
 	- is a monitor of Pharasma
 	- we have saved two of the six spirits
 	- trapped in the ethereal plane
 	- some a captives others are tormentors
 	- The light house is bad juju (real level 11 shit)
+- We decide to make our way to the scarecrow
+	- Turns out the scarecrow is turbo evil
+	- 
