@@ -25,3 +25,4 @@
 	- Even though the castle rebuilt early and took her parents, we were going to be a light expedition
 	- The castle kidnapped us, well it kidnapped Florynn, but we got caught up in it
 	- 'Mephits' who burned down the school were harassing the towns folk as the curse took over the castle
+	- The curse originated in the castle in the evening, there was a storm happening, someone rode across the bridge at night then the curse took effect
