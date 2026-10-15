@@ -28,3 +28,7 @@
 	- The curse originated in the castle in the evening, there was a storm happening, someone rode across the bridge at night then the curse took effect
 - We meet back up with Lucario
 	- is a monitor of Pharasma
+	- we have saved two of the six spirits
+	- trapped in the ethereal plane
+	- some a captives others are tormentors
+	- 
