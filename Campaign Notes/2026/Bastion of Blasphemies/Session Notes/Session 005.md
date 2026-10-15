@@ -26,6 +26,7 @@
 	- The castle kidnapped us, well it kidnapped Florynn, but we got caught up in it
 	- 'Mephits' who burned down the school were harassing the towns folk as the curse took over the castle
 	- The curse originated in the castle in the evening, there was a storm happening, someone rode across the bridge at night then the curse took effect
+	- Curse is being run by someone
 - We meet back up with Lucario
 	- is a monitor of Pharasma
 	- we have saved two of the six spirits
