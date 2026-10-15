@@ -38,4 +38,4 @@
 	- The light house is bad juju (real level 11 shit)
 - We decide to make our way to the scarecrow
 	- Turns out the scarecrow is turbo evil
-	- 
+	- The scarecrow almost kills Jagr & 
