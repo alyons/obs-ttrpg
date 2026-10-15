@@ -32,4 +32,4 @@
 	- we have saved two of the six spirits
 	- trapped in the ethereal plane
 	- some a captives others are tormentors
-	- 
+	- The light house is bad juju (real level 11 shit)
