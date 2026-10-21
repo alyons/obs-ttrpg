@@ -1,0 +1,4 @@
+- We decide to head to the house of darkness
+	- Jagr investigates what look to be drag marks of things being pulled into the house unwillingly
+	- The gouges and markings seem to be humanoid in nature, probably medium sized creatures or smaller
+	- 
