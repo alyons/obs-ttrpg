@@ -6,4 +6,6 @@
 - As we descend into the house, we come upon a being of pure darkness, which we have to battle
 	- They are shadow creatures, undead and can steal your shadow
 - We defeated the haunting shadow creature
-	- A halfling appeared from the shadow creature
+	- A halfling appeared from the shadow creature and was dragged back to the village
+	- The dark house seems to be a bath house and the center is filling with warm water
+	- There seems to be magic 
