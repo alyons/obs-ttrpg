@@ -2,4 +2,5 @@
 	- Jagr investigates what look to be drag marks of things being pulled into the house unwillingly
 	- The gouges and markings seem to be humanoid in nature, probably medium sized creature(s) or smaller
 	- Unknown how many could have been dragged in due to weather patterns and rain
+- Bane kicks open the door and magical darkness spills out, covering all light except that of Jagr's Lantern
 - 
