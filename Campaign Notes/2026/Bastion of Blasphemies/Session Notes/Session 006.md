@@ -5,4 +5,5 @@
 - Bane kicks open the door and magical darkness spills out, covering all light except that of Jagr's Lantern
 - As we descend into the house, we come upon a being of pure darkness, which we have to battle
 	- They are shadow creatures, undead and can steal your shadow
-	- 
+- We defeated the haunting shadow creature
+	- A halfling appeared from the shadow creature
