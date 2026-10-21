@@ -4,3 +4,5 @@
 	- Unknown how many could have been dragged in due to weather patterns and rain
 - Bane kicks open the door and magical darkness spills out, covering all light except that of Jagr's Lantern
 - As we descend into the house, we come upon a being of pure darkness, which we have to battle
+	- They are shadow creatures, undead and can steal your shadow
+	- 
