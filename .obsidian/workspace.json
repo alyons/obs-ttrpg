@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "The Death Knights Squire Oct 2026"
             }
+          },
+          {
+            "id": "3980ae30dab239ee",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,12 +178,11 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d65efd919600d58",
+  "active": "3980ae30dab239ee",
   "lastOpenFiles": [
     "Raw Notes/Great PC - Types of Characters.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 003.md",
