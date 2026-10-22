@@ -26,3 +26,7 @@
 	- The fishing used to be good in the village
 		- Might be more troublesome with the lake monster
 	- Find out about The Arudoras
+- As we arrive at the summoning stone
+	- Bane finds that there are plenty of berries around
+	- Esmira seems anxious
+	- Lucenaro seems to be at peace
