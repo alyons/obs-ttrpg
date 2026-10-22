@@ -1,5 +1,5 @@
 # Bastion of Blasphemies
-Castle Arudora was cut off from the rest of the world by some dreadful curse. We were originally hired by Florin to investigate the island after it kidnapped her
+Castle Arudora was cut off from the rest of the world by some dreadful curse. Once every 100 years, the castle would seemingly rebuild itself and a carriage would go out to kidnap people. We were originally hired by Florin to investigate the island after it kidnapped her parents in the last event to have occurred.
 ## Castle Exterior
 The land around the castle is not particularly wide, approximately within 100 (?) feet of the shore line. Areas around the castle were plague by monsters and haunts of various types, though through our exploration we have found and resolved some of them.
 ### Fishing Village
@@ -11,3 +11,6 @@ Banijer runs the Trading Post and we might be able to buy limited supplies from 
 Ilana runs the workshop next to the trading post and offered to craft us various implements.
 ### Northern Gate
 There is a gate on the north side of the island seemingly leading into the castle. That is where we met Lucenaro. Originally disguised as a man, he is a monitor for Pharasma. He wants to help cleans this place of it's curse as it would help the souls go to rest as well as him being trapped here. He let us know that the whole area seems to be adrift in the ethereal plane.
+### The Summoning Stones
+To the northeast of the island sits a small isle with a circle of stones on it. Those stones seem to form a gate, though they seem to be the destination portion of the gate. When we cleaned off the stones, we found the spirit of Esmira, the former headmistress of the school in the fishing village.
+### 
