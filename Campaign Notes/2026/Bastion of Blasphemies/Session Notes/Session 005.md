@@ -1,0 +1,42 @@
+# Monday 31st of Arendus 4726
+- We continue west
+- We turn up towards the north along the western wall and see a two hundred foot tall light house in the distances
+- We see a small building on western wall as an outcropping to the main building
+	- The door is super sturdy
+	- We tried a few times to break it down, but it doesn't break down
+- Jagr puts together that two gods were initially worshiped on the island
+- Dmitri senses that there is level 7 magic
+- There is a rickety wooden bridge leading across a part of the lake
+- There is a inlet on the Western Wall that a skiff could go in to potentially
+- We come to the tower
+	- It is surrounded by thorny bramble filled with small fetishes
+	- Dmitri says, fuck this shit I'm out
+- We take shelter in the church
+	- The rest is uneventful
+
+# Tuesday 1st of ??? 4726
+- In the morning, Dmitri expends some spells to remove the `Unhealing Wound` from Bane and Viera
+- Jagr and Bane try to teach Moon Moon to fetch and do backflips
+- We head north from the church to the school house, which seemed to be magically repaired
+	- We came upon Aron and the Esmira Vermidian school headmaster talking outside of the school
+	- Aron was the tavern keeper
+	- Esmira and Aron are strange creatures (count as phantoms but have substance)
+	- Aron was working on a revolt against the curse, but was struck down during the raid
+	- Even though the castle rebuilt early and took her parents, we were going to be a light expedition
+	- The castle kidnapped us, well it kidnapped Florynn, but we got caught up in it
+	- 'Mephits' who burned down the school were harassing the towns folk as the curse took over the castle
+	- The curse originated in the castle in the evening, there was a storm happening, someone rode across the bridge at night then the curse took effect
+	- Curse is being run by someone, but we don't know who
+	- they are in the castle
+	- We have access to a library via the School House
+	- We can get information about the island of the curse
+- We meet back up with Lucario
+	- is a monitor of Pharasma
+	- we have saved two of the six spirits
+	- trapped in the ethereal plane
+	- some a captives others are tormentors
+	- The light house is bad juju (real level 11 shit)
+- We decide to make our way to the scarecrow
+	- Turns out the scarecrow is turbo evil
+	- The scarecrow almost kills Jagr & Dmitri
+	- 

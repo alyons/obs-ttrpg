@@ -1,0 +1,33 @@
+- We decide to head to the house of darkness
+	- Jagr investigates what look to be drag marks of things being pulled into the house unwillingly
+	- The gouges and markings seem to be humanoid in nature, probably medium sized creature(s) or smaller
+	- Unknown how many could have been dragged in due to weather patterns and rain
+- Bane kicks open the door and magical darkness spills out, covering all light except that of Jagr's Lantern
+- As we descend into the house, we come upon a being of pure darkness, which we have to battle
+	- They are shadow creatures, undead and can steal your shadow
+- We defeated the haunting shadow creature
+	- A halfling appeared from the shadow creature and was dragged back to the village
+	- The dark house seems to be a bath house and the center is filling with warm water
+	- There seems to be magic
+	- We rest in the baths for an hour, then decide to head back to the village
+- We return the village and meet Banijer Greely
+	- Owner of the Trading Post
+	- Was transformed into that scarecrow creature and was forced to kill his family, which he still saw
+	- Owner of the fields outside of the castle
+	- We informed him of what was happening on the island and he chose to take some time to himself and reconcile with all that happened
+	- The store is cleaned up and looks restocked
+- In the workshop connected to the trading post we meet Ilana Greenbough
+	- Really like the bath house
+	- Relatively okay with being dead
+	- The workshop is cleaned up and the model of Bastard Hall looks to be in much better shape and detail
+	- Viera asks Ilana to help us break the rusted door on the eastern wall of the castle
+- We go to ask Esmira about nearby hunting grounds
+	- There are berries near the summoning stones
+	- The fishing used to be good in the village
+		- Might be more troublesome with the lake monster
+	- Find out about The Arudoras
+- As we arrive at the summoning stone
+	- Bane finds that there are plenty of berries around
+	- Esmira seems anxious
+	- Lucenaro seems to be at peace
+- We rested and level
