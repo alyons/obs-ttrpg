@@ -21,3 +21,4 @@
 	- Relatively okay with being dead
 	- The workshop is cleaned up and the model of Bastard Hall looks to be in much better shape and detail
 	- Viera asks Ilana to help us break the rusted door on the eastern wall of the castle
+- 
