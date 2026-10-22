@@ -22,4 +22,7 @@
 	- The workshop is cleaned up and the model of Bastard Hall looks to be in much better shape and detail
 	- Viera asks Ilana to help us break the rusted door on the eastern wall of the castle
 - We go to ask Esmira about nearby hunting grounds
+	- There are berries near the summoning stones
+	- The fishing used to be good in the village
+		- Might be more troublesome with the lake monster
 	- 
