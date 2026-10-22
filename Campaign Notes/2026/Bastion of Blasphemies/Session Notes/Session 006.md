@@ -25,4 +25,4 @@
 	- There are berries near the summoning stones
 	- The fishing used to be good in the village
 		- Might be more troublesome with the lake monster
-	- 
+	- Find out about The Arudoras
