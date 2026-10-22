@@ -9,4 +9,12 @@
 	- A halfling appeared from the shadow creature and was dragged back to the village
 	- The dark house seems to be a bath house and the center is filling with warm water
 	- There seems to be magic
-- 
+	- We rest in the baths for an hour, then decide to head back to the village
+- We return the village and meet Banijer Greely
+	- Owner of the Trading Post
+	- Was transformed into that scarecrow creature and was forced to kill his family, which he still saw
+	- Owner of the fields outside of the castle
+	- We informed him of what was happening on the island and he chose to take some time to himself and reconcile with all that happened
+- In the workshop of the Trading Post we meet Ilana Greenbough
+	- Really like the bath house
+	- Relative
