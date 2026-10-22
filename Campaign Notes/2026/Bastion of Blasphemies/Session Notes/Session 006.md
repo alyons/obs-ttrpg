@@ -30,3 +30,4 @@
 	- Bane finds that there are plenty of berries around
 	- Esmira seems anxious
 	- Lucenaro seems to be at peace
+- We rested and level
