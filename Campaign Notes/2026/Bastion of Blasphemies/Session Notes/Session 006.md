@@ -8,4 +8,5 @@
 - We defeated the haunting shadow creature
 	- A halfling appeared from the shadow creature and was dragged back to the village
 	- The dark house seems to be a bath house and the center is filling with warm water
-	- There seems to be magic 
+	- There seems to be magic
+- 
