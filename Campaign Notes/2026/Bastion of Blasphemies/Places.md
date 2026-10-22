@@ -36,4 +36,11 @@ Just to the south of the Southern Gatehouse, there is a small wooded area. There
 ### Temple to Shelyn
 Upon reaching the western side of the island and turning north, we found a temple to Shelyn, which seems to be connected to the castle. I detected magic coming from inside and we believe there are some unsavory creatures inside.
 ### The Lighthouse
-A little ways north of the Temple to Shelyn, there is a bridge across some water, with an branch leading to a muddy penisula, on which a lighthouse stands. The lighthouse is approximately 200 ft tall and is surrounded by bramble. When we went to investigate, we noticed that fetishes were placed on the bushes all around the lighthouse 
+A little ways north of the Temple to Shelyn, there is a bridge across some water, with an branch leading to a muddy penisula, on which a lighthouse stands. The lighthouse is approximately 200 ft tall and is surrounded by bramble. When we went to investigate, we noticed that fetishes were placed on the bushes all around the lighthouse and at my suggestion, the party left the area with haste. That turned out to be good, as we got the sense some monsters where stalking us from the bushes around that we hadn't initially sensed.
+Upon completing Lucenaro's quest, he let us know that this lighthouse housed powerful entities and it would be best to go there after we were stronger and knew more about the island (level 11).
+### Bridge to the Outer Shore
+On the western side of the island there is a ruined bridge leading off of the island. (?)
+### Temple to Pharasma
+When we first arrived on the island, we landed near a graveyard and church. Upon dispatching some grindylows near the collapsed bridge and some undead outside of the church, we proceeded to investigate the church.
+It housed some more undead, which we dispatch. We searched finding a few items which we can use on our quest and we have used it a few times as a shelter from being completely exposed on the island.
+### Western Gatehouse
