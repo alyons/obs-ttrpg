@@ -32,4 +32,8 @@ Just west of the bath house, there is a small home with a wharf that reminds me 
 ### Southern Gatehouse
 There seems to be a gatehouse on the southern wall. We didn't enter it, and chose to go around.
 ### Small Forest
-Just to the south of the Southern Gatehouse, there is a small wooded area. There Dmitri saw what looked like wolves consuming a dead body. Bane noticed that the person seemed to be alive, so he had us go and try to help the per
+Just to the south of the Southern Gatehouse, there is a small wooded area. There Dmitri saw what looked like wolves consuming a dead body. Bane noticed that the person seemed to be alive, so he had us go and try to help the person. We were able to defeat the wolves, though one fell into the lake and was mangled by the lake monster, who seemed content to watch it suffer and drown. Bane saved that wolf as we saved the man, who was Aron. We decided to have the wolf come with us after Aron was whisked away by a magical force, pulling him to the village.
+### Temple to Shelyn
+Upon reaching the western side of the island and turning north, we found a temple to Shelyn, which seems to be connected to the castle. I detected magic coming from inside and we believe there are some unsavory creatures inside.
+### The Lighthouse
+A little ways north of the Temple to Shelyn, there is a bridge across some water, with an branch leading to a muddy penisula, on which a lighthouse stands. The lighthouse is approximately 200 ft tall and is surrounded by bramble. When we went to investigate, we noticed that fetishes were placed on the bushes all around the lighthouse 
