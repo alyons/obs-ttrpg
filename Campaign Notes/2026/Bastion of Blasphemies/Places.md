@@ -19,5 +19,11 @@ On the eastern wall, we found what seemed to be a drainage system which we could
 ### Farmlands
 On the eastern side of the island there are a few plots of farmland with ruined houses. A scarecrow sits in the middle of the fields.
 Upon our second visit to the farmlands, we inspected the scarecrow triggering it to attack us. Once we vanquished the monster, it turned into Banijer and was teleported back to the village.
+### Swamp Shack
+There is an area of swampy ground on the eastern side of the island. When we explore it, we find a barghast, which we are able to route, but not defeat. He can turn invisible and we are worried he will make another pass at us again once he has recovered. He was also capable of inflicting Unhealing Wounds.
 ### Rusted Door
-South of the farms, there is a rusted door which seems to lead into the castle. Part of a gatehouse, the 
+South of the farms, there is a rusted door which seems to lead into the castle.
+### Bath House ~~(Darkness House)~~
+On the southeastern corner of the island, we found a house shrouded in darkness. Tracks outside lead us to believe that humanoids were dragged into the house. 
+When we went back and visited the area, we went inside of the house. Inside was complete darkness except for Jagr's Lantern, which gave us 10 ft of light. Once we reached the interior proper, we ended up fighting a shadow beast, which happened to be keeping the soul of Ilana trapped.
+Once purged of it's 
