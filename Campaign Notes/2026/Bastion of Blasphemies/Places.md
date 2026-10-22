@@ -26,4 +26,10 @@ South of the farms, there is a rusted door which seems to lead into the castle.
 ### Bath House ~~(Darkness House)~~
 On the southeastern corner of the island, we found a house shrouded in darkness. Tracks outside lead us to believe that humanoids were dragged into the house. 
 When we went back and visited the area, we went inside of the house. Inside was complete darkness except for Jagr's Lantern, which gave us 10 ft of light. Once we reached the interior proper, we ended up fighting a shadow beast, which happened to be keeping the soul of Ilana trapped.
-Once purged of it's 
+Once purged of it's haunt, the building returned to being a bath house, the center even filling with warm water. If we soak in the waters for at least an hour, it seems as though we can cure ourselves of a disease, though there is no note of the level of the disease.
+### Fisherman's Hut
+Just west of the bath house, there is a small home with a wharf that reminds me of a fisherman's hut. Inside Dmitri detected magic and we believe there to be large insect-like creatures inside.
+### Southern Gatehouse
+There seems to be a gatehouse on the southern wall. We didn't enter it, and chose to go around.
+### Small Forest
+Just to the south of the Southern Gatehouse, there is a small wooded area. There Dmitri saw what looked like wolves consuming a dead body. Bane noticed that the person seemed to be alive, so he had us go and try to help the per
