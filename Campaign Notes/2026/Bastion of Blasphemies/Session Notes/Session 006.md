@@ -15,6 +15,9 @@
 	- Was transformed into that scarecrow creature and was forced to kill his family, which he still saw
 	- Owner of the fields outside of the castle
 	- We informed him of what was happening on the island and he chose to take some time to himself and reconcile with all that happened
-- In the workshop of the Trading Post we meet Ilana Greenbough
+	- The store is cleaned up and looks restocked
+- In the workshop connected to the trading post we meet Ilana Greenbough
 	- Really like the bath house
-	- Relative
+	- Relatively okay with being dead
+	- The workshop is cleaned up and the model of Bastard Hall looks to be in much better shape and detail
+	- Viera asks Ilana to help us break the rusted door on the eastern wall of the castle
