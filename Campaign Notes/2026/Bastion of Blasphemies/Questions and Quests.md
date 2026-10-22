@@ -1,3 +1,7 @@
+# Quests
+- [ ] The Fisherman's Hut
+- [ ] The Temple of Shelyn
+
 # Questions
 - [ ] What is the curse plaguing Castle Arudora?
 	- [ ] Why does the castle kidnap people every centry?
