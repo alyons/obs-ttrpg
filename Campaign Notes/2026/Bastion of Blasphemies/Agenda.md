@@ -1,8 +1,8 @@
 ## Next Actions
-- [ ] The Fisherman's Hut
-- [ ] The Temple of Shelyn
+- [ ] Explore the Fisherman's Hut
+- [ ] Explore the Temple of Shelyn
 - [ ] Discuss with Aron and Banijer about farming/securing food
-- [ ] Discuss 
+- [ ] Discuss with Ilana about alchemical crafting
 
 ## Waiting For
 
