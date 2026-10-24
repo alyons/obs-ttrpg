@@ -1,6 +1,7 @@
 # Quests
-- [ ] The Fisherman's Hut
-- [ ] The Temple of Shelyn
+- [ ] Save Florin
+- [ ] Escape Castle Arudora
+- [ ] Cleanse the curse afflicting Castle Arudora
 
 # Questions
 - [ ] What is the curse plaguing Castle Arudora?
