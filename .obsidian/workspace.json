@@ -4,67 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4910ea931da408d",
+        "id": "f9d1f3fbe58756a2",
         "type": "tabs",
         "children": [
           {
-            "id": "bd4573f4dfd1b5fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/2026/Bastion of Blasphemies/Places.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Places"
-            }
-          },
-          {
-            "id": "01674c2c32303953",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/2026/Bastion of Blasphemies/Places/Fishing Village.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fishing Village"
-            }
-          },
-          {
-            "id": "5894836d9e3dbde4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/2026/Bastion of Blasphemies/Questions and Quests.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Questions and Quests"
-            }
-          },
-          {
-            "id": "b6e296d6acef0b07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/2026/Bastion of Blasphemies/Agenda.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Agenda"
-            }
-          },
-          {
-            "id": "ac98503942d36ddc",
+            "id": "5d65efd919600d58",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Session 005"
+            }
+          },
+          {
+            "id": "4db9b1779e5850c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 006.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 006"
             }
           }
         ],
@@ -226,43 +184,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01674c2c32303953",
+  "active": "4db9b1779e5850c1",
   "lastOpenFiles": [
-    "Campaign Notes/2026/Bastion of Blasphemies/Places.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/World.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Questions and Quests.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Places/Fishing Village.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Places/Castle Exterior.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/Agenda.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/People.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/Party.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/Money Ledger.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/Facts to Share with Party.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/Factions.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/People/Dmitri.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/Extra Mechanics.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/World.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/Factions",
     "Campaign Notes/2026/Bastion of Blasphemies/Places",
-    "Untitled 1",
-    "Untitled",
+    "Campaign Notes/2026/Bastion of Blasphemies/Places.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/People/Dmitri.md",
     "Campaign Notes/2026/Bastion of Blasphemies/People",
-    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 005.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/People.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Factions/The Arudoras.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 004.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 003.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 006.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/People",
     "Campaign Notes/2026/Bastion of Blasphemies/Factions",
+    "Campaign Notes/2026/Bastion of Blasphemies/Agenda.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 005.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 006.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/The Arudoras.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/Dmitri.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 003.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 004.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 002.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/Money Ledger.md",
     "Solo Campaigns/The Death Knights Squire Oct 2026.md",
-    "conflict-files-obsidian-git.md",
     "Raw Notes/Great PC - Types of Characters.md",
     "Solo Campaigns",
-    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 002.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 001.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/Facts to Share with Party.md",
     "Raw Notes/Change to Difficulty Checks and proficiency.md",
     "Raw Notes/Data to Parse.md",
     "Raw Notes/Fiasco Style Character Relations.md",
+    "Raw Notes/Preparing for a Game as a Player.md",
+    "Dungeons & Dragons 5th/Campaigns/Iron Kingdoms - 2022/Vel.md",
     "Dungeons & Dragons 5th/Campaigns/Will Campaign",
-    "Campaign Notes/2026/Bastion of Blasphemies/Journal"
+    "Campaign Notes/2026/Bastion of Blasphemies/Journal",
+    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes",
+    "Campaign Notes/2026",
+    "Campaign Notes/2026/Bastion of Blasphemies",
+    "Campaign Notes"
   ]
 }
