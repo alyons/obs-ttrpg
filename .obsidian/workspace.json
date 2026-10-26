@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eec1bee185c55788",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/2026/Bastion of Blasphemies/Places.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Places"
-            }
-          },
-          {
             "id": "bd4573f4dfd1b5fb",
             "type": "leaf",
             "state": {
@@ -92,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,17 +226,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5894836d9e3dbde4",
+  "active": "01674c2c32303953",
   "lastOpenFiles": [
+    "Campaign Notes/2026/Bastion of Blasphemies/Places.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/Questions and Quests.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Places/Fishing Village.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Places/Castle Exterior.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/Questions and Quests.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Agenda.md",
     "Campaign Notes/2026/Bastion of Blasphemies/People.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Party.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Money Ledger.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Facts to Share with Party.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/Places.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Factions.md",
     "Campaign Notes/2026/Bastion of Blasphemies/People/Dmitri.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Extra Mechanics.md",
