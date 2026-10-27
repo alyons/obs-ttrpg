@@ -1,3 +1,13 @@
+---
+type: session
+world: Golarion
+campaign: Bastion of Blasphemies
+location: Castle Arudora
+date:
+  - 2026-10-21
+---
+
+
 - We decide to head to the house of darkness
 	- Jagr investigates what look to be drag marks of things being pulled into the house unwillingly
 	- The gouges and markings seem to be humanoid in nature, probably medium sized creature(s) or smaller
