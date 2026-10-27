@@ -5,8 +5,13 @@ campaign: Bastion of Blasphemies
 location: Castle Arudora
 date:
   - 2026-10-21
+game_date: 4726-09-01
 ---
+## Session Summary
+???
+## Recap of Last Session
 
+## Log
 
 - We decide to head to the house of darkness
 	- Jagr investigates what look to be drag marks of things being pulled into the house unwillingly
