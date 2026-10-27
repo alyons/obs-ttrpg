@@ -19,4 +19,7 @@
 | Castle Exterior |             |
 | Fishing Village |             |
 # Gods
-| File | Description
+| File       | Description |
+| ---------- | ----------- |
+| Shelyn     |             |
+| Phasmagora |             |
