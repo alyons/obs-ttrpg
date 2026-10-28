@@ -24,3 +24,7 @@ game_date: 4726-09-01
 - We head to the Boat House
 	- Bane breaks down the door, as he does
 	- Fight time with gigantic insects
+	- They seem to be unholy fiends
+	- Bane tries to throw a boat at them
+	- Damn, these bugs got hands
+	- 
