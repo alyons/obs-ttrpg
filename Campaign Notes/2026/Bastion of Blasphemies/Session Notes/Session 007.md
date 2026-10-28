@@ -14,4 +14,5 @@ game_date: 4726-09-01
 ## Log
 ### Wednesday September 2nd, 4726
 - Speak with Aron about the food situation on the island
-- 
+- We head south to the temple of Shelyn and beat in the door
+	- Fight Time! Giant bats and swarm(s) of cockroaches
