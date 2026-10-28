@@ -12,4 +12,6 @@ game_date: 4726-09-01
 ## Recap of Last Session
 
 ## Log
+### Wednesday September 2nd, 4726
+- Speak with Aron about the food situation on the island
 - 
