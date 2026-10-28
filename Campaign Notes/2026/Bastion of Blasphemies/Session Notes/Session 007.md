@@ -19,3 +19,8 @@ game_date: 4726-09-01
 	- Apparently Jagr has access to Raid
 	- Bane is real good at beating up bats
 	- An elf appeared and then was yoinked back to the village
+	- We found a hidden cache inside of the temple containing a wand of cleanse affliction, a scroll of heal, a scroll of holy light, and a rusty key
+	- There were books dedicated to Shelyn
+- We head to the Boat House
+	- Bane breaks down the door, as he does
+	- Fight time with gigantic insects
