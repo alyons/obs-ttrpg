@@ -30,3 +30,5 @@ game_date: 4726-09-01
 	- Schtaniel is cheering about critically hitting us
 	- oh dear lord, there are now swarms of leeches
 	- Dmitri cast Holy Light, dealing significant damage to the bug
+	- In the Boat House, we found a journal, an elixir of darkvision greater, bottled Catharsis, and Mariner's Splint (splintmail)
+	- Arth's Journal
