@@ -34,3 +34,6 @@ game_date: 4726-09-01
 	- Arth's Journal - contains many entries, seems to be obsessed with Alisendra Arudora, we aren't sure in what way
 	- There are various boat fixing supplies and fishing supplies in the boat house
 	- We didn't find a soul in the house
+- We make our way to the northern gate house to speak with Lucenaro to find the final spirit
+	- The final spirit seems to be in a barracks on east side of mansion
+	- 
