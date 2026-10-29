@@ -29,4 +29,4 @@ game_date: 4726-09-01
 	- Damn, these bugs got hands
 	- Schtaniel is cheering about critically hitting us
 	- oh dear lord, there are now swarms of leeches
-	- 
+	- Dmitri cast Holy Light, dealing significant damage to the bug
