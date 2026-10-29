@@ -36,4 +36,6 @@ game_date: 4726-09-01
 	- We didn't find a soul in the house
 - We make our way to the northern gate house to speak with Lucenaro to find the final spirit
 	- The final spirit seems to be in a barracks on east side of mansion
-	- 
+	- We enter the barracks
+	- We fight animated armor, they are immune to all of Dmitri's cantrips
+	- We rescue Ausken Dast, captain of the guard and quartermaster
