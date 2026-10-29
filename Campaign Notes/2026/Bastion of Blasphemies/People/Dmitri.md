@@ -49,6 +49,7 @@ As part of building a character in Bastion of Blasphemies, I chose to use the `P
 - Trade Death of Life - You are wasting your life, it is better used here.
 - Vitality Lash - Bane of existence, you shall fall to the true taste of life.
 - Guidance - Pharasma, guide the hands of this one to make sure your will be done.
+- Holy Light!
 
 Dmitri was born to a traveling merchant family. Consiting of about twenty Ysoki in his immediate family and another eighty in the whole caravan, Dmitri was never want for companionship. Growing up, he found his time consumed by reading various tomes his family picked up through trade and wanted to always see more of the world. Even though the caravan traveled across the land, his family never spent too much time in one place. He felt the lack of roots to any one space, but did eventually come to love his caravan as his home.
 
