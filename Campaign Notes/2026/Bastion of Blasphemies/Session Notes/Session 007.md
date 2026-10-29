@@ -28,3 +28,4 @@ game_date: 4726-09-01
 	- Bane tries to throw a boat at them
 	- Damn, these bugs got hands
 	- Schtaniel is cheering about critically hitting us
+	- oh dear 
