@@ -13,4 +13,7 @@ game_date: 4726-09-02
 
 # Log
 ## Wednesday September 2nd, 4726 (cont)
-- 
+- In the barracks we make our way upstairs and see a marshaling room
+	- Chandelliers, a lecturn, coats of arms on the walls
+- Ausken seems stuck in a loop because his haunt hasn't been cleansed
+- We go to the opp
