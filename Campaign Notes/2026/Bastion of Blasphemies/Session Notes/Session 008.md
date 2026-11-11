@@ -21,3 +21,4 @@ game_date: 4726-09-02
 	- 20 ft high beams, tables in the room
 	- Some bunk beds in the north and south of the room
 	- As we enter, we hear weeping and see soldiers in the room
+	- There is a haunt
