@@ -8,6 +8,26 @@
         "type": "tabs",
         "children": [
           {
+            "id": "47edee016bbdb39c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 008.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 008"
+            }
+          }
+        ]
+      },
+      {
+        "id": "73256b98ce1938f2",
+        "type": "tabs",
+        "children": [
+          {
             "id": "a58569a759f5cef7",
             "type": "leaf",
             "state": {
@@ -83,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e5c7fd7ad1e4f8c1",
@@ -168,9 +189,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a58569a759f5cef7",
+  "active": "47edee016bbdb39c",
   "lastOpenFiles": [
     "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 007.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 008.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 004.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 005.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 006.md",
@@ -199,7 +221,6 @@
     "Raw Notes/Great PC - Types of Characters.md",
     "Solo Campaigns",
     "Raw Notes/Change to Difficulty Checks and proficiency.md",
-    "Raw Notes/Data to Parse.md",
     "Dungeons & Dragons 5th/Campaigns/Will Campaign",
     "Campaign Notes/2026/Bastion of Blasphemies/Journal",
     "Campaign Notes/2026/Bastion of Blasphemies/Session Notes",
