@@ -22,3 +22,4 @@ game_date: 4726-09-02
 	- Some bunk beds in the north and south of the room
 	- As we enter, we hear weeping and see soldiers in the room
 	- There is a haunt
+- We visit the church of pharasma and find the Shirail Animender (elven spirit) there
