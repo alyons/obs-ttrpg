@@ -47,6 +47,8 @@ game_date: 4726-09-02
 			- Kindler Cameo - Florin's necklace, shows her parents, is magical
 			- Why was the necklace on the broken statue?
 			- Why is this the only broken statue?
+			- Viera and Bane check the broken statue
+				- It seems like the broken statue was deliberately broken down
 		- These people are probably members of House Arudora 
 		- The center person is the founding member of the Arudora Family
 			- Erugile (?) - also creator of the castle
@@ -54,4 +56,6 @@ game_date: 4726-09-02
 			- Potential that the curse of the castle had effects on people of the family
 			- While the family may or may not be vampires, vampires being here is not out of the question
 			- Is Florin from branch family?
-			- 
+		- Bane recognizes some other members of the family
+			- Raudltz Arudora
+			- Jinnivere Arudora
