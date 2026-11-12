@@ -23,3 +23,11 @@ game_date: 4726-09-02
 	- As we enter, we hear weeping and see soldiers in the room
 	- There is a haunt
 - We visit the church of pharasma and find the Shirail Animender (elven spirit) there
+	- We have her return to town
+- The townsfolk have gathered at the tavern
+	- Aron -> Shelter
+	- Banijer -> Food Supplies
+	- Ilana -> Weaponsmithing or Armorsmithing
+	- Esmira -> Research on the Island
+	- Ausken -> Town Guard
+	- Shirail -> religion + healing
