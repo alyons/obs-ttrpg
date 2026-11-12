@@ -62,3 +62,5 @@ game_date: 4726-09-02
 		- We open a room in the courtyard
 			- Seems to be a 'garage' for horse carriages
 			- There is rubble of the carriage
+			- The room seems to be imparting a feeling of resentment on all of us towards each other
+			- It is related to this room, but there is nothing apparent about 
