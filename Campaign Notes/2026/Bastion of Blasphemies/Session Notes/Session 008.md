@@ -47,3 +47,5 @@ game_date: 4726-09-02
 		- The center person is the founding member of the Arudora Family
 			- Erugile (?) - also creator of the castle
 			- Arudora family are all vampires according to Bane
+			- Potential that the curse of the castle had effects on people of the family
+			- While the family may or may not be vampires, vampires being here is not out of the question
