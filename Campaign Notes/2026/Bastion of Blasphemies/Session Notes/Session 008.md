@@ -59,3 +59,6 @@ game_date: 4726-09-02
 		- Bane recognizes some other members of the family
 			- Raudltz Arudora - Raudltz Arudora was the patriarch of Castle Arudora when the curse took hold in 4213. He and several other members of the family went missing at that time. (1 research point)
 			- Jinnivere Arudora - Jinnivere Arudora was the eldest of two siblings and the only daughter of the castle’s lord and lady when the curse took hold. She and several other members of the family went missing at that time. (1 research point)
+		- We open a room in the courtyard
+			- Seems to be a 'garage' for horse carriages
+			- There is rubble of the carriage
