@@ -31,3 +31,6 @@ game_date: 4726-09-02
 	- Esmira -> Research on the Island
 	- Ausken -> Town Guard
 	- Shirail -> religion + healing
+- We look for lucenaro and can't find him
+- We decide to take a look at the model of Castle Arudora
+	- Cursed Object: Can give us visions inside of the castle, but psychic backlash if 
