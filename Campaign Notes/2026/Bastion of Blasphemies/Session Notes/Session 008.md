@@ -67,3 +67,4 @@ game_date: 4726-09-02
 		- We return to the courtyard and look at the building across the way to the next building
 			- 4 ft high stone wall with 4 ft high wrought iron fence
 			- Seems to be a mini garden/orchard
+			- Mandragora pop out of the ground like little bitches
