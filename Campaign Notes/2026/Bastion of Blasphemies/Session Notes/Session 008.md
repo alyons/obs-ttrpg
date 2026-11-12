@@ -42,4 +42,8 @@ game_date: 4726-09-02
 		- the fountain is dry
 		- Center is a statue of a mustached man holding a ewer
 		- Surrounded by eight other people statues
-		- the statue to the south is broken down 
+		- the statue to the south is broken down to their feet
+		- These people are probably members of House Arudora 
+		- The center person is the founding member of the Arudora Family
+			- Erugile (?) - also creator of the castle
+			- Arudora family are all vampires according to Bane
