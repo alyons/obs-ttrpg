@@ -43,9 +43,15 @@ game_date: 4726-09-02
 		- Center is a statue of a mustached man holding a ewer
 		- Surrounded by eight other people statues
 		- the statue to the south is broken down to their feet
+			- Jewelry by the statue's feet
+			- Kindler Cameo - Florin's necklace, shows her parents, is magical
+			- Why was the necklace on the broken statue?
+			- Why is this the only broken statue?
 		- These people are probably members of House Arudora 
 		- The center person is the founding member of the Arudora Family
 			- Erugile (?) - also creator of the castle
 			- Arudora family are all vampires according to Bane
 			- Potential that the curse of the castle had effects on people of the family
 			- While the family may or may not be vampires, vampires being here is not out of the question
+			- Is Florin from branch family?
+			- 
