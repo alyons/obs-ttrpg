@@ -38,4 +38,8 @@ game_date: 4726-09-02
 - We enter the castle through the northern gate
 	- Splintered bones broken weapons and the remnants of a battle are strewn about the castle grounds after we first entered through the portculus.
 	- The weapons, although broken, are in relatively good condition and don't seem to have aged at all
-- Inside of the castle
+	- We find a fountain in the courtyard (?)
+		- the fountain is dry
+		- Center is a statue of a mustached man holding a ewer
+		- Surrounded by eight other people statues
+		- the statue to the south is broken down 
