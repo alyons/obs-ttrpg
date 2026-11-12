@@ -63,4 +63,7 @@ game_date: 4726-09-02
 			- Seems to be a 'garage' for horse carriages
 			- There is rubble of the carriage
 			- The room seems to be imparting a feeling of resentment on all of us towards each other
-			- It is related to this room, but there is nothing apparent about 
+			- It is related to this room, but there is nothing apparent about what could be really causing it
+		- We return to the courtyard and look at the building across the way to the next building
+			- 4 ft high stone wall with 4 ft high wrought iron fence
+			- Seems to be a mini garden/orchard
