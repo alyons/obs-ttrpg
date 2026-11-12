@@ -35,3 +35,7 @@ game_date: 4726-09-02
 - We decide to take a look at the model of Castle Arudora
 	- Cursed Object: Can give us visions inside of the castle, but psychic backlash if things go sideways
 	- Things went sideways for Jagr
+- We enter the castle through the northern gate
+	- Splintered bones broken weapons and the remnants of a battle are strewn about the castle grounds after we first entered through the portculus.
+	- The weapons, although broken, are in relatively good condition and don't seem to have aged at all
+- Inside of the castle
