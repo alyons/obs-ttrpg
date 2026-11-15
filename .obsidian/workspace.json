@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Session 006"
             }
+          },
+          {
+            "id": "bab88aa03de22b93",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,7 +196,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4db9b1779e5850c1",
+  "active": "bab88aa03de22b93",
   "lastOpenFiles": [
     "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 004.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 005.md",
