@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a0dc12cbd124ea42",
+        "id": "73256b98ce1938f2",
         "type": "tabs",
         "children": [
           {
-            "id": "47edee016bbdb39c",
+            "id": "a58569a759f5cef7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -24,21 +24,21 @@
         ]
       },
       {
-        "id": "73256b98ce1938f2",
+        "id": "bedac7abda4a19d3",
         "type": "tabs",
         "children": [
           {
-            "id": "a58569a759f5cef7",
+            "id": "fe79c078bb76d8b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 007.md",
+                "file": "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 008.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 007"
+              "title": "Session 008"
             }
           }
         ]
@@ -188,11 +188,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "47edee016bbdb39c",
+  "active": "a58569a759f5cef7",
   "lastOpenFiles": [
-    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 007.md",
-    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 009.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 008.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 009.md",
+    "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 007.md",
     "Campaign Notes/2026/Bastion of Blasphemies/People/Dmitri.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 002.md",
     "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 001.md",
