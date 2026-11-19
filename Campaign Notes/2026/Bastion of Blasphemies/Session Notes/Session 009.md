@@ -47,4 +47,5 @@ game_date: 4726-09-01
 	- approximately 10 of each type
 
 ### Thursday September 3rd, 4726
-- 
+- We re-enter the castle
+- We find the entrance hall
