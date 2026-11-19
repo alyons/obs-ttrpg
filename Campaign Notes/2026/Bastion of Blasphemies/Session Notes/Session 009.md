@@ -26,3 +26,6 @@ game_date: 4726-09-01
 	- most of the hives are empty, but one
 	- The one is encrusted with foul smelling honey
 	- Bane tastes the honey, it doesn't go well
+	- Bane finds an item in the hive
+	- Dmitri figures out it's a Soulheart
+	- Bane sees visions of Sovina, the woman whose ghost
