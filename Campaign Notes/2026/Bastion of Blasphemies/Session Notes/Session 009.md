@@ -45,3 +45,6 @@ game_date: 4726-09-01
 		- looked like a thug or a goon
 - It seems like we can have a relative stock of ammunition per day
 	- approximately 10 of each type
+
+### Thursday September 3rd, 4726
+- 
