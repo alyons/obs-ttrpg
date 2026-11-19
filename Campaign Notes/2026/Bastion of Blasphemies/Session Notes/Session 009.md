@@ -40,3 +40,6 @@ game_date: 4726-09-01
 		- there is a water way under the castle including a dock, lake, and small jail cell
 	- Banijer left the area and came back after 10 years
 	- Banijer ran the farm for 10 years
+	- Keep an eye out for a silver sicle medallion
+		- Junth - jailer or some other steward of the castle
+		- looked like a thug or a goon
