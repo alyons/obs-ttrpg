@@ -25,3 +25,4 @@ game_date: 4726-09-01
 - We return to the apiary
 	- most of the hives are empty, but one
 	- The one is encrusted with foul smelling honey
+	- Bane tastes the honey, it doesn't go well
