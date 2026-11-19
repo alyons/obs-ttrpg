@@ -11,3 +11,4 @@ game_date: 4726-09-01
 ## Recap of Last Session
 ## Log
 ### Wednesday September 2nd, 4726 (cont)
+- We fight a weird 
