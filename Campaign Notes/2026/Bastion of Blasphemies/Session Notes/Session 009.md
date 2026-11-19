@@ -36,4 +36,7 @@ game_date: 4726-09-01
 	- We tell him about Soniva
 	- We tell him about his body
 	- Bane shares the vision he saw with Banijer
-	- 
+	- Banijer thanks us for sharing with him what has been happening and shares with us his knowledge of the underkeep of the castle
+		- there is a water way under the castle including a dock, lake, and small jail cell
+	- Banijer left the area and came back after 10 years
+	- Banijer ran the farm for 10 years
