@@ -18,4 +18,5 @@ game_date: 4726-09-01
 	- She ended up trying to dig in a field
 	- We helped her exhume the remains of Banijer
 	- We assume her to be Banijer's wife
-	- 
+- Vile Remnant
+	- Some thing 
