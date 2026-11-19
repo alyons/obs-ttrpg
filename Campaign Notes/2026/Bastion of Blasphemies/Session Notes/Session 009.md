@@ -29,3 +29,4 @@ game_date: 4726-09-01
 	- Bane finds an item in the hive
 	- Dmitri figures out it's a Soulheart
 	- Bane sees visions of Sovina, the woman whose ghost
+- Dmitri
