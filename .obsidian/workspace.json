@@ -22,26 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "bedac7abda4a19d3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fe79c078bb76d8b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes/2026/Bastion of Blasphemies/Session Notes/Session 008.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 008"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

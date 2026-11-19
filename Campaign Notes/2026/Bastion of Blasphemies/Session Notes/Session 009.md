@@ -17,7 +17,8 @@ game_date: 4726-09-01
 - As a ghost, she began to cry and ventured out of the castle to the farmlands on the eastern side
 	- She ended up trying to dig in a field
 	- We helped her exhume the remains of Banijer
-	- We assume her to be Banijer's wife
+	- ~~We assume her to be Banijer's wife~~
+	- She is Banijer's friend
 - Vile Remnant
 	- Something vile that can curse people
 - Ghost lady wipes her tears away
@@ -30,4 +31,9 @@ game_date: 4726-09-01
 	- Dmitri figures out it's a Soulheart
 	- Bane sees visions of Sovina, the woman whose ghost
 - We visit Shirail
+	- We are able to sequester the vile remnants in the reliquary of the church
+- We visit Banijer at the store
+	- We tell him about Soniva
+	- We tell him about his body
+	- Bane shares the vision he saw with Banijer
 	- 
