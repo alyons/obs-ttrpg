@@ -21,4 +21,7 @@ game_date: 4726-09-01
 - Vile Remnant
 	- Something vile that can curse people
 - Ghost lady wipes her tears away
-	- Appreciates us trying to help and she 
+	- Appreciates us trying to help and she let's us know there is something in the apiary
+- We return to the apiary
+	- most of the hives are empty, but one
+	- The one is encrusted with foul smelling honey
