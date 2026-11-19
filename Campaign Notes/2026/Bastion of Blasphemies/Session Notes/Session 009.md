@@ -11,4 +11,8 @@ game_date: 4726-09-01
 ## Recap of Last Session
 ## Log
 ### Wednesday September 2nd, 4726 (cont)
-- We fight a weird 
+- We fight a weird lady talking about us coming to steal her honey
+	- She was a head with various entrails under her and did a lot of damage
+	- Upon defeat she turned into a ghost
+- As a ghost, she began to cry and ventured out of the castle to the farmlands on the eastern side
+	- She ended up trying to dig 
