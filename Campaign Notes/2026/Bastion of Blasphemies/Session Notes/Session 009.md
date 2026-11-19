@@ -43,3 +43,5 @@ game_date: 4726-09-01
 	- Keep an eye out for a silver sicle medallion
 		- Junth - jailer or some other steward of the castle
 		- looked like a thug or a goon
+- It seems like we can have a relative stock of ammunition per day
+	- approximately 10 of each type
