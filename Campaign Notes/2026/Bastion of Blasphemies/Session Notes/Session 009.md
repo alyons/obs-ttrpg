@@ -19,4 +19,6 @@ game_date: 4726-09-01
 	- We helped her exhume the remains of Banijer
 	- We assume her to be Banijer's wife
 - Vile Remnant
-	- Some thing 
+	- Something vile that can curse people
+- Ghost lady wipes her tears away
+	- Appreciates us trying to help and she 
